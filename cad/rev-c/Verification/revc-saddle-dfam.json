@@ -1,0 +1,194 @@
+{
+  "file": "outputs/McLaren-6WD-RevC/Print STL/04 PETG motor clamp saddle.STL",
+  "mesh": {
+    "bbox_mm": [
+      59.0,
+      21.2,
+      14.0
+    ],
+    "volume_mm3": 9485.7,
+    "surface_area_mm2": 4518.8,
+    "triangle_count": 420,
+    "watertight": true,
+    "euler_number": -2,
+    "body_count": 1
+  },
+  "scale": {
+    "bbox_diagonal_mm": 64.2374,
+    "units_suspect": false,
+    "note": "bbox consistent with millimetre units"
+  },
+  "overhangs": {
+    "angle_limit_used_deg": 45.0,
+    "down_facing_area_below_limit_mm2": 157.98,
+    "down_facing_area_below_limit_pct": 3.5,
+    "face_count_below_limit": 38,
+    "down_facing_angle_histogram_mm2": {
+      "0-10deg": 33.26,
+      "10-20deg": 33.26,
+      "20-30deg": 33.26,
+      "30-40deg": 33.26,
+      "40-50deg": 33.26,
+      "50-60deg": 33.26,
+      "60-70deg": 33.26,
+      "70-80deg": 33.26,
+      "80-90deg": 33.26
+    },
+    "largest_faces_below_limit": [
+      {
+        "location_xyz": [
+          55.34,
+          21.13,
+          8.8
+        ],
+        "surface_angle_deg": 35.0,
+        "area_mm2": 4.16
+      },
+      {
+        "location_xyz": [
+          55.23,
+          14.07,
+          8.87
+        ],
+        "surface_angle_deg": 35.0,
+        "area_mm2": 4.16
+      },
+      {
+        "location_xyz": [
+          4.48,
+          21.13,
+          9.18
+        ],
+        "surface_angle_deg": 15.0,
+        "area_mm2": 4.16
+      },
+      {
+        "location_xyz": [
+          4.36,
+          14.07,
+          9.15
+        ],
+        "surface_angle_deg": 15.0,
+        "area_mm2": 4.16
+      },
+      {
+        "location_xyz": [
+          3.66,
+          14.07,
+          8.8
+        ],
+        "surface_angle_deg": 35.0,
+        "area_mm2": 4.16
+      },
+      {
+        "location_xyz": [
+          3.77,
+          21.13,
+          8.87
+        ],
+        "surface_angle_deg": 35.0,
+        "area_mm2": 4.16
+      },
+      {
+        "location_xyz": [
+          53.48,
+          21.13,
+          9.18
+        ],
+        "surface_angle_deg": 15.0,
+        "area_mm2": 4.16
+      },
+      {
+        "location_xyz": [
+          53.36,
+          14.07,
+          9.15
+        ],
+        "surface_angle_deg": 15.0,
+        "area_mm2": 4.16
+      }
+    ]
+  },
+  "wall_thickness": {
+    "samples_valid": 420,
+    "min_mm": 2.772,
+    "p05_mm": 3.53,
+    "p25_mm": 4.962,
+    "median_mm": 9.722,
+    "max_mm": 21.2,
+    "thinnest_samples": [
+      {
+        "location_xyz": [
+          2.76,
+          14.07,
+          7.13
+        ],
+        "thickness_mm": 2.772
+      },
+      {
+        "location_xyz": [
+          56.24,
+          21.13,
+          7.13
+        ],
+        "thickness_mm": 2.772
+      },
+      {
+        "location_xyz": [
+          2.77,
+          14.07,
+          6.74
+        ],
+        "thickness_mm": 2.783
+      },
+      {
+        "location_xyz": [
+          2.77,
+          21.13,
+          7.26
+        ],
+        "thickness_mm": 2.783
+      },
+      {
+        "location_xyz": [
+          56.23,
+          21.13,
+          6.74
+        ],
+        "thickness_mm": 2.783
+      },
+      {
+        "location_xyz": [
+          56.18,
+          21.13,
+          7.52
+        ],
+        "thickness_mm": 2.917
+      },
+      {
+        "location_xyz": [
+          29.85,
+          10.03,
+          9.33
+        ],
+        "thickness_mm": 3.031
+      },
+      {
+        "location_xyz": [
+          27.73,
+          10.11,
+          9.33
+        ],
+        "thickness_mm": 3.133
+      }
+    ]
+  },
+  "support_volume": {
+    "angle_limit_used_deg": 45.0,
+    "estimated_support_volume_mm3": 1264.7,
+    "part_volume_mm3": 9485.7,
+    "support_to_part_ratio_pct": 13.3,
+    "method": "prism from face centroid to build plate; coarse upper-bound estimate"
+  },
+  "partial": false
+}

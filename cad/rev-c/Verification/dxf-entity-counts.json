@@ -1,0 +1,22 @@
+{
+  "01 Base plate": {
+    "L": 12,
+    "C": 52
+  },
+  "02 Gearmotor face rail": {
+    "L": 4,
+    "C": 21
+  },
+  "03 Motor rail return strip": {
+    "L": 4,
+    "C": 4
+  },
+  "23 Gearbox face doubler": {
+    "L": 4,
+    "C": 7
+  },
+  "24 Clamp backing strip": {
+    "L": 4,
+    "C": 6
+  }
+}

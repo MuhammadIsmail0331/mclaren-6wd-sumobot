@@ -1,0 +1,6 @@
+SAVE          cad/rev-c\04 PETG motor clamp saddle.SLDPRT          True           0             0
+-29.5  7  0  29.5  28.2  14
+SAVE          cad/rev-c\05 PETG motor clamp cap.SLDPRT             True           0             0
+-29.5  28.8  0  29.5  50.3  14
+SAVE          cad/rev-c\13 Pack access panel.SLDPRT  True           0             0
+-22 -60  0  22  60  2.8

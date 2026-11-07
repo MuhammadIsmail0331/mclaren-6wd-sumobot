@@ -1,0 +1,37 @@
+CAD part,Quantity,Make or source
+01 Base plate.SLDPRT,1,"1.0 mm steel; cut, form or join per build guide"
+02 Gearmotor face rail.SLDPRT,2,"1.0 mm steel; cut, form or join per build guide"
+03 Motor rail return strip.SLDPRT,2,"1.0 mm steel; cut, form or join per build guide"
+04 PETG motor clamp saddle.SLDPRT,6,3D print PETG
+05 PETG motor clamp cap.SLDPRT,6,3D print PETG
+06 Three-bend scoop skin.SLDPRT,1,"1.0 mm steel; cut, form or join per build guide"
+07 Scoop support rib.SLDPRT,5,"1.0 mm steel; cut, form or join per build guide"
+08 Scoop support foot.SLDPRT,5,"1.0 mm steel; cut, form or join per build guide"
+09 Wheel side guard.SLDPRT,2,"1.0 mm steel; cut, form or join per build guide"
+10 Guard angle.SLDPRT,4,"1.0 mm steel; cut, form or join per build guide"
+11 Rear bumper wall.SLDPRT,1,"1.0 mm steel; cut, form or join per build guide"
+12 Insulated pack tray.SLDPRT,2,3D print PETG
+13 Pack access panel.SLDPRT,2,3D print PETG
+14 Purchased M3 pack-cover spacer.SLDPRT,8,Purchase hardware
+15 Electronics deck.SLDPRT,1,3D print PETG
+16 Purchased M4 deck spacer.SLDPRT,4,Purchase hardware
+17 Purchased M3 PCB spacer.SLDPRT,8,Purchase hardware
+18 Electronics side riser.SLDPRT,2,3D print PETG
+19 Front upper closure.SLDPRT,1,"1.0 mm steel; cut, form or join per build guide"
+20 Electronics lid.SLDPRT,1,3D print PETG
+21 Electronics rear closure.SLDPRT,1,3D print PETG
+22 Silicone tread envelope.SLDPRT,6,Existing component reference
+23 Gearbox face doubler.SLDPRT,6,"1.0 mm steel; cut, form or join per build guide"
+24 Clamp backing strip.SLDPRT,2,"1.0 mm steel; cut, form or join per build guide"
+25 Floor hat stiffener.SLDPRT,2,"1.0 mm steel; cut, form or join per build guide"
+26 Scoop formed underlay.SLDPRT,1,"1.0 mm steel; cut, form or join per build guide"
+27 Side guard inboard return.SLDPRT,2,"1.0 mm steel; cut, form or join per build guide"
+28 Rear bumper return.SLDPRT,1,"1.0 mm steel; cut, form or join per build guide"
+29 REF M3x5 face screw and washer.SLDPRT,36,Purchase hardware
+30 REF M4x40 clamp bolt.SLDPRT,12,Purchase hardware
+31 REF M4 locknut and washer.SLDPRT,12,Purchase hardware
+REF ESP32 plus buck space.SLDPRT,1,Existing component reference
+REF LiPo 3S pack envelope.SLDPRT,2,Existing component reference
+REF Team IBT-2.SLDPRT,2,Existing component reference
+REF Team JGB37 motor.SLDPRT,6,Existing component reference
+REF Team rim 0.22.SLDPRT,6,Existing component reference

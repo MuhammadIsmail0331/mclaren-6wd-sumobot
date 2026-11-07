@@ -1,0 +1,208 @@
+REFERENCE|cad/rev-c\05 PETG motor clamp cap.SLDPRT
+REFERENCE|cad/rev-c\REF Team JGB37 motor.SLDPRT
+REFERENCE|cad/rev-c\04 PETG motor clamp saddle.SLDPRT
+REFERENCE|cad/rev-c\03 Motor rail return strip.SLDPRT
+REFERENCE|cad/rev-c\01 Base plate.SLDPRT
+REFERENCE|cad/rev-c\02 Gearmotor face rail.SLDPRT
+REFERENCE|cad/rev-c\05 PETG motor clamp cap.SLDPRT
+REFERENCE|cad/rev-c\22 Silicone tread envelope.SLDPRT
+REFERENCE|cad/rev-c\09 Wheel side guard.SLDPRT
+REFERENCE|cad/rev-c\REF Team JGB37 motor.SLDPRT
+REFERENCE|cad/rev-c\REF Team rim 0.22.SLDPRT
+REFERENCE|cad/rev-c\REF Team rim 0.22.SLDPRT
+REFERENCE|cad/rev-c\22 Silicone tread envelope.SLDPRT
+REFERENCE|cad/rev-c\04 PETG motor clamp saddle.SLDPRT
+REFERENCE|cad/rev-c\05 PETG motor clamp cap.SLDPRT
+REFERENCE|cad/rev-c\REF Team rim 0.22.SLDPRT
+REFERENCE|cad/rev-c\04 PETG motor clamp saddle.SLDPRT
+REFERENCE|cad/rev-c\REF Team JGB37 motor.SLDPRT
+REFERENCE|cad/rev-c\22 Silicone tread envelope.SLDPRT
+REFERENCE|cad/rev-c\REF LiPo 3S pack envelope.SLDPRT
+REFERENCE|cad/rev-c\10 Guard angle.SLDPRT
+REFERENCE|cad/rev-c\10 Guard angle.SLDPRT
+REFERENCE|cad/rev-c\12 Insulated pack tray.SLDPRT
+REFERENCE|cad/rev-c\13 Pack access panel.SLDPRT
+REFERENCE|cad/rev-c\14 Purchased M3 pack-cover spacer.SLDPRT
+REFERENCE|cad/rev-c\14 Purchased M3 pack-cover spacer.SLDPRT
+REFERENCE|cad/rev-c\14 Purchased M3 pack-cover spacer.SLDPRT
+REFERENCE|cad/rev-c\14 Purchased M3 pack-cover spacer.SLDPRT
+REFERENCE|cad/rev-c\02 Gearmotor face rail.SLDPRT
+REFERENCE|cad/rev-c\04 PETG motor clamp saddle.SLDPRT
+REFERENCE|cad/rev-c\16 Purchased M4 deck spacer.SLDPRT
+REFERENCE|cad/rev-c\17 Purchased M3 PCB spacer.SLDPRT
+REFERENCE|cad/rev-c\16 Purchased M4 deck spacer.SLDPRT
+REFERENCE|cad/rev-c\17 Purchased M3 PCB spacer.SLDPRT
+REFERENCE|cad/rev-c\04 PETG motor clamp saddle.SLDPRT
+REFERENCE|cad/rev-c\17 Purchased M3 PCB spacer.SLDPRT
+REFERENCE|cad/rev-c\17 Purchased M3 PCB spacer.SLDPRT
+REFERENCE|cad/rev-c\REF Team IBT-2.SLDPRT
+REFERENCE|cad/rev-c\18 Electronics side riser.SLDPRT
+REFERENCE|cad/rev-c\03 Motor rail return strip.SLDPRT
+REFERENCE|cad/rev-c\REF Team JGB37 motor.SLDPRT
+REFERENCE|cad/rev-c\05 PETG motor clamp cap.SLDPRT
+REFERENCE|cad/rev-c\REF Team rim 0.22.SLDPRT
+REFERENCE|cad/rev-c\22 Silicone tread envelope.SLDPRT
+REFERENCE|cad/rev-c\05 PETG motor clamp cap.SLDPRT
+REFERENCE|cad/rev-c\REF Team JGB37 motor.SLDPRT
+REFERENCE|cad/rev-c\22 Silicone tread envelope.SLDPRT
+REFERENCE|cad/rev-c\04 PETG motor clamp saddle.SLDPRT
+REFERENCE|cad/rev-c\REF Team rim 0.22.SLDPRT
+REFERENCE|cad/rev-c\05 PETG motor clamp cap.SLDPRT
+REFERENCE|cad/rev-c\22 Silicone tread envelope.SLDPRT
+REFERENCE|cad/rev-c\10 Guard angle.SLDPRT
+REFERENCE|cad/rev-c\14 Purchased M3 pack-cover spacer.SLDPRT
+REFERENCE|cad/rev-c\REF Team JGB37 motor.SLDPRT
+REFERENCE|cad/rev-c\16 Purchased M4 deck spacer.SLDPRT
+REFERENCE|cad/rev-c\10 Guard angle.SLDPRT
+REFERENCE|cad/rev-c\REF LiPo 3S pack envelope.SLDPRT
+REFERENCE|cad/rev-c\14 Purchased M3 pack-cover spacer.SLDPRT
+REFERENCE|cad/rev-c\14 Purchased M3 pack-cover spacer.SLDPRT
+REFERENCE|cad/rev-c\REF Team rim 0.22.SLDPRT
+REFERENCE|cad/rev-c\12 Insulated pack tray.SLDPRT
+REFERENCE|cad/rev-c\09 Wheel side guard.SLDPRT
+REFERENCE|cad/rev-c\13 Pack access panel.SLDPRT
+REFERENCE|cad/rev-c\14 Purchased M3 pack-cover spacer.SLDPRT
+REFERENCE|cad/rev-c\16 Purchased M4 deck spacer.SLDPRT
+REFERENCE|cad/rev-c\18 Electronics side riser.SLDPRT
+REFERENCE|cad/rev-c\06 Three-bend scoop skin.SLDPRT
+REFERENCE|cad/rev-c\17 Purchased M3 PCB spacer.SLDPRT
+REFERENCE|cad/rev-c\17 Purchased M3 PCB spacer.SLDPRT
+REFERENCE|cad/rev-c\17 Purchased M3 PCB spacer.SLDPRT
+REFERENCE|cad/rev-c\REF Team IBT-2.SLDPRT
+REFERENCE|cad/rev-c\17 Purchased M3 PCB spacer.SLDPRT
+REFERENCE|cad/rev-c\08 Scoop support foot.SLDPRT
+REFERENCE|cad/rev-c\08 Scoop support foot.SLDPRT
+REFERENCE|cad/rev-c\15 Electronics deck.SLDPRT
+REFERENCE|cad/rev-c\07 Scoop support rib.SLDPRT
+REFERENCE|cad/rev-c\REF ESP32 plus buck space.SLDPRT
+REFERENCE|cad/rev-c\07 Scoop support rib.SLDPRT
+REFERENCE|cad/rev-c\20 Electronics lid.SLDPRT
+REFERENCE|cad/rev-c\08 Scoop support foot.SLDPRT
+REFERENCE|cad/rev-c\11 Rear bumper wall.SLDPRT
+REFERENCE|cad/rev-c\19 Front upper closure.SLDPRT
+REFERENCE|cad/rev-c\21 Electronics rear closure.SLDPRT
+REFERENCE|cad/rev-c\07 Scoop support rib.SLDPRT
+REFERENCE|cad/rev-c\07 Scoop support rib.SLDPRT
+REFERENCE|cad/rev-c\08 Scoop support foot.SLDPRT
+REFERENCE|cad/rev-c\23 Gearbox face doubler.SLDPRT
+REFERENCE|cad/rev-c\23 Gearbox face doubler.SLDPRT
+REFERENCE|cad/rev-c\24 Clamp backing strip.SLDPRT
+REFERENCE|cad/rev-c\23 Gearbox face doubler.SLDPRT
+REFERENCE|cad/rev-c\08 Scoop support foot.SLDPRT
+REFERENCE|cad/rev-c\27 Side guard inboard return.SLDPRT
+REFERENCE|cad/rev-c\23 Gearbox face doubler.SLDPRT
+REFERENCE|cad/rev-c\07 Scoop support rib.SLDPRT
+REFERENCE|cad/rev-c\23 Gearbox face doubler.SLDPRT
+REFERENCE|cad/rev-c\25 Floor hat stiffener.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\27 Side guard inboard return.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\25 Floor hat stiffener.SLDPRT
+REFERENCE|cad/rev-c\23 Gearbox face doubler.SLDPRT
+REFERENCE|cad/rev-c\24 Clamp backing strip.SLDPRT
+REFERENCE|cad/rev-c\28 Rear bumper return.SLDPRT
+REFERENCE|cad/rev-c\26 Scoop formed underlay.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\30 REF M4x40 clamp bolt.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\30 REF M4x40 clamp bolt.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\30 REF M4x40 clamp bolt.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\30 REF M4x40 clamp bolt.SLDPRT
+REFERENCE|cad/rev-c\31 REF M4 locknut and washer.SLDPRT
+REFERENCE|cad/rev-c\31 REF M4 locknut and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\31 REF M4 locknut and washer.SLDPRT
+REFERENCE|cad/rev-c\31 REF M4 locknut and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\30 REF M4x40 clamp bolt.SLDPRT
+REFERENCE|cad/rev-c\30 REF M4x40 clamp bolt.SLDPRT
+REFERENCE|cad/rev-c\30 REF M4x40 clamp bolt.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\31 REF M4 locknut and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\31 REF M4 locknut and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\30 REF M4x40 clamp bolt.SLDPRT
+REFERENCE|cad/rev-c\31 REF M4 locknut and washer.SLDPRT
+REFERENCE|cad/rev-c\31 REF M4 locknut and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\30 REF M4x40 clamp bolt.SLDPRT
+REFERENCE|cad/rev-c\30 REF M4x40 clamp bolt.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\31 REF M4 locknut and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\30 REF M4x40 clamp bolt.SLDPRT
+REFERENCE|cad/rev-c\31 REF M4 locknut and washer.SLDPRT
+REFERENCE|cad/rev-c\30 REF M4x40 clamp bolt.SLDPRT
+REFERENCE|cad/rev-c\31 REF M4 locknut and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT
+REFERENCE|cad/rev-c\31 REF M4 locknut and washer.SLDPRT
+BITMAP        RevC CAD 01 Isometric       True
+BITMAP        RevC CAD 02 Plan            True
+BITMAP        RevC CAD 03 Side            True
+BITMAP        RevC CAD 04 Front           True
+BITMAP        RevC CAD 05 Service access  True
+BITMAP        RevC CAD 06 Drivetrain and packs          True
+FLAG|01 Base plate.SLDPRT|False
+FLAG|02 Gearmotor face rail.SLDPRT|False
+FLAG|03 Motor rail return strip.SLDPRT|False
+FLAG|04 PETG motor clamp saddle.SLDPRT|False
+FLAG|05 PETG motor clamp cap.SLDPRT|False
+FLAG|REF Team JGB37 motor.SLDPRT|False
+FLAG|REF Team rim 0.22.SLDPRT|False
+FLAG|22 Silicone tread envelope.SLDPRT|False
+FLAG|09 Wheel side guard.SLDPRT|False
+FLAG|10 Guard angle.SLDPRT|False
+FLAG|12 Insulated pack tray.SLDPRT|False
+FLAG|REF LiPo 3S pack envelope.SLDPRT|False
+FLAG|13 Pack access panel.SLDPRT|False
+FLAG|14 Purchased M3 pack-cover spacer.SLDPRT|False
+FLAG|16 Purchased M4 deck spacer.SLDPRT|False
+FLAG|17 Purchased M3 PCB spacer.SLDPRT|False
+FLAG|REF Team IBT-2.SLDPRT|False
+FLAG|18 Electronics side riser.SLDPRT|False
+FLAG|06 Three-bend scoop skin.SLDPRT|False
+FLAG|11 Rear bumper wall.SLDPRT|False
+FLAG|15 Electronics deck.SLDPRT|False
+FLAG|REF ESP32 plus buck space.SLDPRT|False
+FLAG|19 Front upper closure.SLDPRT|False
+FLAG|20 Electronics lid.SLDPRT|False
+FLAG|21 Electronics rear closure.SLDPRT|False
+FLAG|07 Scoop support rib.SLDPRT|False
+FLAG|08 Scoop support foot.SLDPRT|False
+FLAG|23 Gearbox face doubler.SLDPRT|False
+FLAG|24 Clamp backing strip.SLDPRT|False
+FLAG|27 Side guard inboard return.SLDPRT|False
+FLAG|28 Rear bumper return.SLDPRT|False
+FLAG|25 Floor hat stiffener.SLDPRT|False
+FLAG|26 Scoop formed underlay.SLDPRT|False
+FLAG|29 REF M3x5 face screw and washer.SLDPRT|False
+FLAG|30 REF M4x40 clamp bolt.SLDPRT|False
+FLAG|31 REF M4 locknut and washer.SLDPRT|False
+SAVE|McLaren 6WD - Rev C.SLDASM|True|0|0
+FLAG|McLaren 6WD - Rev C.SLDASM|False
+FINAL_ASSEMBLY_SAVE|True|0|0
+COMPLETE
