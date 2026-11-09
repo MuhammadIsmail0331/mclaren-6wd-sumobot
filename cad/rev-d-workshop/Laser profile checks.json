@@ -1,0 +1,32 @@
+{
+  "01 Base plate.dxf": {
+    "width_mm": 243.0,
+    "height_mm": 286.0,
+    "holes": 52,
+    "smallest_hole_to_edge_ligament_mm": 1.75
+  },
+  "02 Gearmotor face rail - transfer drill.dxf": {
+    "width_mm": 184.0,
+    "height_mm": 42.0,
+    "holes": 3,
+    "smallest_hole_to_edge_ligament_mm": 14.2
+  },
+  "03 Wide motor rail return - shop review.dxf": {
+    "width_mm": 195.0,
+    "height_mm": 14.5,
+    "holes": 4,
+    "smallest_hole_to_edge_ligament_mm": 2.75
+  },
+  "23 Gearbox face doubler - transfer drill.dxf": {
+    "width_mm": 44.0,
+    "height_mm": 38.0,
+    "holes": 1,
+    "smallest_hole_to_edge_ligament_mm": 9.7
+  },
+  "24 Clamp backing strip.dxf": {
+    "width_mm": 186.0,
+    "height_mm": 20.0,
+    "holes": 6,
+    "smallest_hole_to_edge_ligament_mm": 4.25
+  }
+}

@@ -2,12 +2,13 @@
 
 A RAC chassis project for remote-controlled robot sumo: six JGB37-550 gearmotors, custom silicone tires, two IBT-2 drivers and two 3S LiPo packs. Each driver and pack serve one side.
 
-**Rev C is the latest saved fit prototype.** It adds the gearbox face fasteners and revises the bolted PETG motor mounts on the nominal 1.0 mm steel chassis. The proposed front gussets and rear corner connections are documented for the next fabrication revision; they have not been added to this CAD.
+**Rev D Workshop is the latest published fit prototype.** It uses the team's adapted split sleeves and widened motor-rail returns. The native package was extracted and rebuilt in a separate folder in SolidWorks 2025.
 
-![Rev C isometric view](cad/rev-c/Views/RevC%20CAD%2001%20Isometric.png)
+![Rev D workshop isometric view](cad/rev-d-workshop/Native%20assembly%20view.png)
 
 | Start here | What is included |
 | --- | --- |
+| [Rev D workshop build](cad/rev-d-workshop) | Native assembly, 40 referenced parts, STEP, first-fit print files, pilot laser profiles and hardware list |
 | [Rev C CAD and exports](cad/rev-c) | SolidWorks 2025 assembly, 36 part files, assembled STEP, individual STEP exports and views |
 | [Motor mount review](cad/rev-c/Motor%20mount%20review.md) | Positive gearbox restraint, printed clamp fit, hardware, height and ground clearance |
 | [Fabrication joint review](docs/fabrication-joint-review.md) | Team proposals for front support and rear corners, plus the joints to finish before cutting |
@@ -18,7 +19,7 @@ A RAC chassis project for remote-controlled robot sumo: six JGB37-550 gearmotors
 | [Earlier CAD](cad) | Rev A and Rev B preserved for comparison |
 | [Research brief](docs/research-and-design-brief.md) | Initial rules research, sizing and wedge tradeoffs |
 
-Download the complete Rev C bundle from [Releases](https://github.com/MuhammadIsmail0331/mclaren-6wd-sumobot/releases). Extract it and open `McLaren 6WD - Rev C.SLDASM` with the parts and `Reference STEP` folder alongside it. Keep each revision in its own folder: some part names are reused between revisions.
+Download the native Rev D archive from [Releases](https://github.com/MuhammadIsmail0331/mclaren-6wd-sumobot/releases). Extract the full archive and open `SolidWorks/McLaren 6WD - Workshop.SLDASM` with its part files beside it. Keep revisions in separate folders because some component names are reused.
 
 The package includes eight STL print files and five flat motor/floor DXFs. The DXFs are **not a complete chassis flat-pattern set**. The scoop, formed members and proposed joints still need shop-specific bend and joining details. Print one motor clamp pair and verify the delivered gearbox interface before batching the motor mounts or rails.
 
