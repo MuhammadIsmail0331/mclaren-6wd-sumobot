@@ -1,0 +1,8 @@
+# SolidWorks transient files and local-only browser/private archives
+~$*
+*.SLDBAK
+*.sldbak
+*.bmp
+[Bb]rave-recovery*/
+**/[Bb]rave-recovery*/
+**/*[Ww]hats[Aa]pp*/

@@ -1,0 +1,323 @@
+REBUILD       True
+ASSEMBLY      cad/rev-c\McLaren 6WD - Rev C.SLDASM    162
+BOUNDS        -140           0            -145           151.999999999742            60            145
+INTERFERENCES  114
+PAIR|45.771|REF Team JGB37 motor-2|REF Team rim 0.22-2
+PAIR|45.771|REF Team JGB37 motor-3|REF Team rim 0.22-3
+PAIR|45.771|REF Team JGB37 motor-1|REF Team rim 0.22-1
+PAIR|45.771|REF Team JGB37 motor-5|REF Team rim 0.22-5
+PAIR|45.771|REF Team JGB37 motor-6|REF Team rim 0.22-6
+PAIR|45.771|REF Team JGB37 motor-4|REF Team rim 0.22-4
+PAIR|17.671|REF Team JGB37 motor-1|29 REF M3x5 face screw and washer-6
+PAIR|17.671|REF Team JGB37 motor-4|29 REF M3x5 face screw and washer-24
+PAIR|17.671|REF Team JGB37 motor-3|29 REF M3x5 face screw and washer-14
+PAIR|17.671|REF Team JGB37 motor-2|29 REF M3x5 face screw and washer-9
+PAIR|17.671|REF Team JGB37 motor-4|29 REF M3x5 face screw and washer-23
+PAIR|17.671|REF Team JGB37 motor-6|29 REF M3x5 face screw and washer-31
+PAIR|17.671|REF Team JGB37 motor-2|29 REF M3x5 face screw and washer-11
+PAIR|17.671|REF Team JGB37 motor-5|29 REF M3x5 face screw and washer-25
+PAIR|17.671|REF Team JGB37 motor-5|29 REF M3x5 face screw and washer-26
+PAIR|17.671|REF Team JGB37 motor-5|29 REF M3x5 face screw and washer-27
+PAIR|17.671|REF Team JGB37 motor-5|29 REF M3x5 face screw and washer-30
+PAIR|17.671|REF Team JGB37 motor-3|29 REF M3x5 face screw and washer-13
+PAIR|17.671|REF Team JGB37 motor-3|29 REF M3x5 face screw and washer-17
+PAIR|17.671|REF Team JGB37 motor-1|29 REF M3x5 face screw and washer-1
+PAIR|17.671|REF Team JGB37 motor-5|29 REF M3x5 face screw and washer-28
+PAIR|17.671|REF Team JGB37 motor-6|29 REF M3x5 face screw and washer-34
+PAIR|17.671|REF Team JGB37 motor-6|29 REF M3x5 face screw and washer-32
+PAIR|17.671|REF Team JGB37 motor-1|29 REF M3x5 face screw and washer-3
+PAIR|17.671|REF Team JGB37 motor-2|29 REF M3x5 face screw and washer-8
+PAIR|17.671|REF Team JGB37 motor-1|29 REF M3x5 face screw and washer-5
+PAIR|17.671|REF Team JGB37 motor-2|29 REF M3x5 face screw and washer-12
+PAIR|17.671|REF Team JGB37 motor-1|29 REF M3x5 face screw and washer-2
+PAIR|17.671|REF Team JGB37 motor-2|29 REF M3x5 face screw and washer-10
+PAIR|17.671|REF Team JGB37 motor-4|29 REF M3x5 face screw and washer-20
+PAIR|17.671|REF Team JGB37 motor-3|29 REF M3x5 face screw and washer-16
+PAIR|17.671|REF Team JGB37 motor-6|29 REF M3x5 face screw and washer-33
+PAIR|17.671|REF Team JGB37 motor-4|29 REF M3x5 face screw and washer-19
+PAIR|17.671|REF Team JGB37 motor-4|29 REF M3x5 face screw and washer-21
+PAIR|17.671|REF Team JGB37 motor-1|29 REF M3x5 face screw and washer-4
+PAIR|17.671|REF Team JGB37 motor-4|29 REF M3x5 face screw and washer-22
+PAIR|17.671|REF Team JGB37 motor-5|29 REF M3x5 face screw and washer-29
+PAIR|17.671|REF Team JGB37 motor-6|29 REF M3x5 face screw and washer-35
+PAIR|17.671|REF Team JGB37 motor-6|29 REF M3x5 face screw and washer-36
+PAIR|17.671|REF Team JGB37 motor-3|29 REF M3x5 face screw and washer-18
+PAIR|17.671|REF Team JGB37 motor-3|29 REF M3x5 face screw and washer-15
+PAIR|17.671|REF Team JGB37 motor-2|29 REF M3x5 face screw and washer-7
+PAIR|1.090|REF Team rim 0.22-4|22 Silicone tread envelope-4
+PAIR|1.090|REF Team rim 0.22-1|22 Silicone tread envelope-1
+PAIR|1.090|REF Team rim 0.22-4|22 Silicone tread envelope-4
+PAIR|1.090|REF Team rim 0.22-3|22 Silicone tread envelope-3
+PAIR|1.090|REF Team rim 0.22-2|22 Silicone tread envelope-2
+PAIR|1.090|REF Team rim 0.22-5|22 Silicone tread envelope-5
+PAIR|1.090|REF Team rim 0.22-5|22 Silicone tread envelope-5
+PAIR|1.090|REF Team rim 0.22-1|22 Silicone tread envelope-1
+PAIR|1.090|REF Team rim 0.22-6|22 Silicone tread envelope-6
+PAIR|1.090|REF Team rim 0.22-6|22 Silicone tread envelope-6
+PAIR|1.090|REF Team rim 0.22-3|22 Silicone tread envelope-3
+PAIR|1.090|REF Team rim 0.22-1|22 Silicone tread envelope-1
+PAIR|1.090|REF Team rim 0.22-3|22 Silicone tread envelope-3
+PAIR|1.090|REF Team rim 0.22-2|22 Silicone tread envelope-2
+PAIR|1.090|REF Team rim 0.22-6|22 Silicone tread envelope-6
+PAIR|1.090|REF Team rim 0.22-5|22 Silicone tread envelope-5
+PAIR|1.090|REF Team rim 0.22-2|22 Silicone tread envelope-2
+PAIR|1.090|REF Team rim 0.22-5|22 Silicone tread envelope-5
+PAIR|1.090|REF Team rim 0.22-2|22 Silicone tread envelope-2
+PAIR|1.090|REF Team rim 0.22-5|22 Silicone tread envelope-5
+PAIR|1.090|REF Team rim 0.22-2|22 Silicone tread envelope-2
+PAIR|1.090|REF Team rim 0.22-2|22 Silicone tread envelope-2
+PAIR|1.090|REF Team rim 0.22-6|22 Silicone tread envelope-6
+PAIR|1.090|REF Team rim 0.22-3|22 Silicone tread envelope-3
+PAIR|1.090|REF Team rim 0.22-5|22 Silicone tread envelope-5
+PAIR|1.090|REF Team rim 0.22-3|22 Silicone tread envelope-3
+PAIR|1.090|REF Team rim 0.22-5|22 Silicone tread envelope-5
+PAIR|1.090|REF Team rim 0.22-1|22 Silicone tread envelope-1
+PAIR|1.090|REF Team rim 0.22-6|22 Silicone tread envelope-6
+PAIR|1.090|REF Team rim 0.22-1|22 Silicone tread envelope-1
+PAIR|1.090|REF Team rim 0.22-5|22 Silicone tread envelope-5
+PAIR|1.090|REF Team rim 0.22-3|22 Silicone tread envelope-3
+PAIR|1.090|REF Team rim 0.22-4|22 Silicone tread envelope-4
+PAIR|1.090|REF Team rim 0.22-2|22 Silicone tread envelope-2
+PAIR|1.090|REF Team rim 0.22-5|22 Silicone tread envelope-5
+PAIR|1.090|REF Team rim 0.22-6|22 Silicone tread envelope-6
+PAIR|1.090|REF Team rim 0.22-3|22 Silicone tread envelope-3
+PAIR|1.090|REF Team rim 0.22-6|22 Silicone tread envelope-6
+PAIR|1.090|REF Team rim 0.22-1|22 Silicone tread envelope-1
+PAIR|1.090|REF Team rim 0.22-1|22 Silicone tread envelope-1
+PAIR|1.090|REF Team rim 0.22-4|22 Silicone tread envelope-4
+PAIR|1.090|REF Team rim 0.22-5|22 Silicone tread envelope-5
+PAIR|1.090|REF Team rim 0.22-2|22 Silicone tread envelope-2
+PAIR|1.090|REF Team rim 0.22-4|22 Silicone tread envelope-4
+PAIR|1.090|REF Team rim 0.22-4|22 Silicone tread envelope-4
+PAIR|1.090|REF Team rim 0.22-4|22 Silicone tread envelope-4
+PAIR|1.090|REF Team rim 0.22-1|22 Silicone tread envelope-1
+PAIR|1.090|REF Team rim 0.22-1|22 Silicone tread envelope-1
+PAIR|1.090|REF Team rim 0.22-6|22 Silicone tread envelope-6
+PAIR|1.090|REF Team rim 0.22-5|22 Silicone tread envelope-5
+PAIR|1.090|REF Team rim 0.22-2|22 Silicone tread envelope-2
+PAIR|1.090|REF Team rim 0.22-2|22 Silicone tread envelope-2
+PAIR|1.090|REF Team rim 0.22-3|22 Silicone tread envelope-3
+PAIR|1.090|REF Team rim 0.22-2|22 Silicone tread envelope-2
+PAIR|1.090|REF Team rim 0.22-1|22 Silicone tread envelope-1
+PAIR|1.090|REF Team rim 0.22-4|22 Silicone tread envelope-4
+PAIR|1.090|REF Team rim 0.22-3|22 Silicone tread envelope-3
+PAIR|1.090|REF Team rim 0.22-6|22 Silicone tread envelope-6
+PAIR|1.090|REF Team rim 0.22-1|22 Silicone tread envelope-1
+PAIR|1.090|REF Team rim 0.22-4|22 Silicone tread envelope-4
+PAIR|1.090|REF Team rim 0.22-4|22 Silicone tread envelope-4
+PAIR|1.090|REF Team rim 0.22-1|22 Silicone tread envelope-1
+PAIR|1.090|REF Team rim 0.22-6|22 Silicone tread envelope-6
+PAIR|1.090|REF Team rim 0.22-2|22 Silicone tread envelope-2
+PAIR|1.090|REF Team rim 0.22-5|22 Silicone tread envelope-5
+PAIR|1.090|REF Team rim 0.22-3|22 Silicone tread envelope-3
+PAIR|1.090|REF Team rim 0.22-4|22 Silicone tread envelope-4
+PAIR|1.090|REF Team rim 0.22-3|22 Silicone tread envelope-3
+PAIR|1.090|REF Team rim 0.22-6|22 Silicone tread envelope-6
+PAIR|1.090|REF Team rim 0.22-6|22 Silicone tread envelope-6
+PAIR|1.090|REF Team rim 0.22-3|22 Silicone tread envelope-3
+PAIR|1.090|REF Team rim 0.22-4|22 Silicone tread envelope-4
+PART|cad/rev-c\03 Motor rail return strip.SLDPRT|2160.967|0.000|-5.868|0.500
+PART|cad/rev-c\04 PETG motor clamp saddle.SLDPRT|9465.780|0.000|15.353|7.000
+PART|cad/rev-c\05 PETG motor clamp cap.SLDPRT|4656.171|0.000|38.404|7.000
+PART|cad/rev-c\01 Base plate.SLDPRT|54056.882|-23.377|0.000|0.500
+PART|cad/rev-c\02 Gearmotor face rail.SLDPRT|7190.505|0.136|27.963|0.500
+PART|cad/rev-c\REF Team rim 0.22.SLDPRT|22414.767|0.000|17.530|-0.001
+PART|cad/rev-c\REF Team JGB37 motor.SLDPRT|82483.583|37.634|0.000|-0.081
+PART|cad/rev-c\22 Silicone tread envelope.SLDPRT|42531.408|0.000|0.000|16.500
+PART|cad/rev-c\13 Pack access panel.SLDPRT|13592.822|-0.439|0.000|1.400
+PART|cad/rev-c\12 Insulated pack tray.SLDPRT|9436.994|0.000|0.020|1.519
+PART|cad/rev-c\14 Purchased M3 pack-cover spacer.SLDPRT|971.734|0.000|0.000|17.500
+PART|cad/rev-c\16 Purchased M4 deck spacer.SLDPRT|1577.708|0.000|0.000|22.500
+PART|cad/rev-c\17 Purchased M3 PCB spacer.SLDPRT|117.621|0.000|0.000|2.000
+PART|cad/rev-c\10 Guard angle.SLDPRT|640.000|139.675|13.825|8.000
+PART|cad/rev-c\REF LiPo 3S pack envelope.SLDPRT|94500.000|0.000|0.000|13.500
+PART|cad/rev-c\09 Wheel side guard.SLDPRT|12292.483|-16.414|33.036|0.500
+PART|cad/rev-c\18 Electronics side riser.SLDPRT|21913.404|-18.867|79.350|1.500
+PART|cad/rev-c\REF Team IBT-2.SLDPRT|107500.000|0.000|21.500|0.000
+PART|cad/rev-c\23 Gearbox face doubler.SLDPRT|1492.835|-6.501|28.500|0.500
+PART|cad/rev-c\08 Scoop support foot.SLDPRT|78.242|98.826|0.000|0.500
+PART|cad/rev-c\24 Clamp backing strip.SLDPRT|3624.574|-6.000|0.000|0.500
+PART|cad/rev-c\07 Scoop support rib.SLDPRT|360.996|100.247|15.710|0.500
+PART|cad/rev-c\27 Side guard inboard return.SLDPRT|2277.000|-13.500|0.000|0.500
+PART|cad/rev-c\25 Floor hat stiffener.SLDPRT|2448.000|0.000|12.778|34.000
+PART|cad/rev-c\29 REF M3x5 face screw and washer.SLDPRT|92.150|0.000|0.000|-0.122
+PART|cad/rev-c\30 REF M4x40 clamp bolt.SLDPRT|602.457|0.000|0.000|16.505
+PART|cad/rev-c\26 Scoop formed underlay.SLDPRT|15370.048|111.340|15.258|136.000
+PART|cad/rev-c\28 Rear bumper return.SLDPRT|2520.000|-134.000|0.000|0.500
+PART|cad/rev-c\31 REF M4 locknut and washer.SLDPRT|182.714|0.000|0.000|2.668
+PART|cad/rev-c\19 Front upper closure.SLDPRT|16007.706|74.035|71.590|99.000
+PART|cad/rev-c\21 Electronics rear closure.SLDPRT|32063.177|0.000|79.850|1.500
+PART|cad/rev-c\06 Three-bend scoop skin.SLDPRT|20338.709|119.166|13.005|141.000
+PART|cad/rev-c\REF ESP32 plus buck space.SLDPRT|21060.000|0.000|0.000|7.500
+PART|cad/rev-c\15 Electronics deck.SLDPRT|60917.036|-0.457|0.000|1.500
+PART|cad/rev-c\11 Rear bumper wall.SLDPRT|12671.384|0.000|29.306|0.500
+PART|cad/rev-c\20 Electronics lid.SLDPRT|80750.318|-19.307|0.000|1.500
+BITMAP        RevC CAD 01 Isometric       True
+BITMAP        RevC CAD 02 Plan            True
+BITMAP        RevC CAD 03 Side            True
+BITMAP        RevC CAD 04 Front           True
+BITMAP        RevC CAD 05 Service access  True
+BITMAP        RevC CAD 06 Drivetrain and packs          True
+BITMAP        RevC CAD 07 Motor mounting bank           True
+BANK_VIEW_ERROR|0|
+STEP EXPORT   True           0             0
+MOUNT_VOLUME|04 PETG motor clamp saddle|9465.780
+MOUNT_BMP|04 PETG motor clamp saddle|True
+MOUNT_STEP|04 PETG motor clamp saddle|True|0
+MOUNT_STL|04 PETG motor clamp saddle|True|0
+04 PETG motor clamp saddle_BODIES|1
+04 PETG motor clamp saddle_CYL|0.000|28.500|14.000|0.000|0.000|-1.000|18.500
+04 PETG motor clamp saddle_CYL|-24.500|7.000|7.000|0.000|-1.000|0.000|2.250
+04 PETG motor clamp saddle_CYL|24.500|7.000|7.000|0.000|-1.000|0.000|2.250
+MOUNT_VOLUME|05 PETG motor clamp cap|4656.171
+MOUNT_BMP|05 PETG motor clamp cap|True
+MOUNT_STEP|05 PETG motor clamp cap|True|0
+MOUNT_STL|05 PETG motor clamp cap|True|0
+05 PETG motor clamp cap_BODIES|1
+05 PETG motor clamp cap_CYL|0.000|28.500|14.000|0.000|0.000|-1.000|21.800
+05 PETG motor clamp cap_CYL|0.000|28.500|14.000|0.000|0.000|-1.000|18.500
+05 PETG motor clamp cap_CYL|24.500|28.800|7.000|0.000|-1.000|0.000|2.250
+05 PETG motor clamp cap_CYL|-24.500|28.800|7.000|0.000|-1.000|0.000|2.250
+MOUNT_VOLUME|13 Pack access panel|13592.822
+MOUNT_BMP|13 Pack access panel|True
+MOUNT_STEP|13 Pack access panel|True|0
+MOUNT_STL|13 Pack access panel|True|0
+13 Pack access panel_BODIES|1
+13 Pack access panel_CYL|-16.000|-55.000|2.800|0.000|0.000|-1.000|1.750
+13 Pack access panel_CYL|-16.000|55.000|2.800|0.000|0.000|-1.000|1.750
+13 Pack access panel_CYL|16.000|-55.000|2.800|0.000|0.000|-1.000|1.750
+13 Pack access panel_CYL|16.000|55.000|2.800|0.000|0.000|-1.000|1.750
+13 Pack access panel_CYL|-11.500|-28.000|2.800|0.000|0.000|-1.000|1.800
+13 Pack access panel_CYL|11.500|-28.000|2.800|0.000|0.000|-1.000|1.800
+13 Pack access panel_CYL|-11.500|0.000|2.800|0.000|0.000|-1.000|1.800
+13 Pack access panel_CYL|11.500|0.000|2.800|0.000|0.000|-1.000|1.800
+13 Pack access panel_CYL|-11.500|28.000|2.800|0.000|0.000|-1.000|1.800
+13 Pack access panel_CYL|11.500|28.000|2.800|0.000|0.000|-1.000|1.800
+MOUNT_VOLUME|12 Insulated pack tray|9436.994
+MOUNT_BMP|12 Insulated pack tray|True
+MOUNT_STEP|12 Insulated pack tray|True|0
+MOUNT_STL|12 Insulated pack tray|True|0
+12 Insulated pack tray_BODIES|1
+12 Insulated pack tray_CYL|-18.000|-48.000|2.000|0.000|0.000|-1.000|1.750
+12 Insulated pack tray_CYL|-18.000|43.000|2.000|0.000|0.000|-1.000|1.750
+12 Insulated pack tray_CYL|18.000|-48.000|2.000|0.000|0.000|-1.000|1.750
+12 Insulated pack tray_CYL|18.000|43.000|2.000|0.000|0.000|-1.000|1.750
+12 Insulated pack tray_CYL|-18.800|-11.000|2.000|0.000|0.000|-1.000|1.300
+12 Insulated pack tray_CYL|-18.800|11.000|2.000|0.000|0.000|-1.000|1.300
+12 Insulated pack tray_CYL|18.800|-11.000|2.000|0.000|0.000|-1.000|1.300
+12 Insulated pack tray_CYL|18.800|11.000|2.000|0.000|0.000|-1.000|1.300
+MOUNT_VOLUME|15 Electronics deck|60917.036
+MOUNT_BMP|15 Electronics deck|True
+MOUNT_STEP|15 Electronics deck|True|0
+MOUNT_STL|15 Electronics deck|True|0
+15 Electronics deck_BODIES|1
+15 Electronics deck_CYL|-37.000|-81.000|3.000|0.000|0.000|-1.000|2.200
+15 Electronics deck_CYL|-37.000|81.000|3.000|0.000|0.000|-1.000|2.200
+15 Electronics deck_CYL|30.000|-81.000|3.000|0.000|0.000|-1.000|2.200
+15 Electronics deck_CYL|30.000|81.000|3.000|0.000|0.000|-1.000|2.200
+15 Electronics deck_CYL|-22.000|-83.000|3.000|0.000|0.000|-1.000|1.750
+15 Electronics deck_CYL|-22.000|39.000|3.000|0.000|0.000|-1.000|1.750
+15 Electronics deck_CYL|-22.000|-39.000|3.000|0.000|0.000|-1.000|1.750
+15 Electronics deck_CYL|-22.000|83.000|3.000|0.000|0.000|-1.000|1.750
+15 Electronics deck_CYL|22.000|-83.000|3.000|0.000|0.000|-1.000|1.750
+15 Electronics deck_CYL|22.000|39.000|3.000|0.000|0.000|-1.000|1.750
+15 Electronics deck_CYL|22.000|-39.000|3.000|0.000|0.000|-1.000|1.750
+15 Electronics deck_CYL|22.000|83.000|3.000|0.000|0.000|-1.000|1.750
+15 Electronics deck_CYL|-41.000|0.000|3.000|0.000|0.000|-1.000|4.000
+15 Electronics deck_CYL|-17.000|0.000|3.000|0.000|0.000|-1.000|4.000
+15 Electronics deck_CYL|13.000|0.000|3.000|0.000|0.000|-1.000|4.000
+15 Electronics deck_CYL|37.000|0.000|3.000|0.000|0.000|-1.000|4.000
+MOUNT_VOLUME|18 Electronics side riser|21913.404
+MOUNT_BMP|18 Electronics side riser|True
+MOUNT_STEP|18 Electronics side riser|True|0
+MOUNT_STL|18 Electronics side riser|True|0
+18 Electronics side riser_BODIES|1
+18 Electronics side riser_CYL|-51.000|61.000|3.000|0.000|0.000|-1.000|2.100
+18 Electronics side riser_CYL|45.000|61.000|3.000|0.000|0.000|-1.000|2.100
+18 Electronics side riser_CYL|-72.500|82.000|3.000|0.000|0.000|-1.000|3.000
+18 Electronics side riser_CYL|-41.500|82.000|3.000|0.000|0.000|-1.000|3.000
+18 Electronics side riser_CYL|-30.500|82.000|3.000|0.000|0.000|-1.000|3.000
+18 Electronics side riser_CYL|0.500|82.000|3.000|0.000|0.000|-1.000|3.000
+18 Electronics side riser_CYL|11.500|82.000|3.000|0.000|0.000|-1.000|3.000
+18 Electronics side riser_CYL|42.500|82.000|3.000|0.000|0.000|-1.000|3.000
+MOUNT_VOLUME|20 Electronics lid|80750.318
+MOUNT_BMP|20 Electronics lid|True
+MOUNT_STEP|20 Electronics lid|True|0
+MOUNT_STL|20 Electronics lid|True|0
+20 Electronics lid_BODIES|1
+20 Electronics lid_CYL|-82.000|-93.000|3.000|0.000|0.000|-1.000|2.100
+20 Electronics lid_CYL|-82.000|93.000|3.000|0.000|0.000|-1.000|2.100
+20 Electronics lid_CYL|45.000|-93.000|3.000|0.000|0.000|-1.000|2.100
+20 Electronics lid_CYL|45.000|93.000|3.000|0.000|0.000|-1.000|2.100
+20 Electronics lid_CYL|-33.000|-76.000|3.000|0.000|0.000|-1.000|2.500
+20 Electronics lid_CYL|21.000|-76.000|3.000|0.000|0.000|-1.000|2.500
+20 Electronics lid_CYL|-33.000|-61.000|3.000|0.000|0.000|-1.000|2.500
+20 Electronics lid_CYL|21.000|-61.000|3.000|0.000|0.000|-1.000|2.500
+20 Electronics lid_CYL|-33.000|-46.000|3.000|0.000|0.000|-1.000|2.500
+20 Electronics lid_CYL|21.000|-46.000|3.000|0.000|0.000|-1.000|2.500
+20 Electronics lid_CYL|-33.000|46.000|3.000|0.000|0.000|-1.000|2.500
+20 Electronics lid_CYL|21.000|46.000|3.000|0.000|0.000|-1.000|2.500
+20 Electronics lid_CYL|-33.000|61.000|3.000|0.000|0.000|-1.000|2.500
+20 Electronics lid_CYL|21.000|61.000|3.000|0.000|0.000|-1.000|2.500
+20 Electronics lid_CYL|-33.000|76.000|3.000|0.000|0.000|-1.000|2.500
+20 Electronics lid_CYL|21.000|76.000|3.000|0.000|0.000|-1.000|2.500
+MOUNT_VOLUME|21 Electronics rear closure|32063.177
+MOUNT_BMP|21 Electronics rear closure|True
+MOUNT_STEP|21 Electronics rear closure|True|0
+MOUNT_STL|21 Electronics rear closure|True|0
+21 Electronics rear closure_BODIES|1
+21 Electronics rear closure_CYL|-14.500|61.000|3.000|0.000|0.000|-1.000|3.000
+21 Electronics rear closure_CYL|14.500|61.000|3.000|0.000|0.000|-1.000|3.000
+MOUNT_VOLUME|02 Gearmotor face rail|7190.505
+MOUNT_BMP|02 Gearmotor face rail|True
+MOUNT_STEP|02 Gearmotor face rail|True|0
+02 Gearmotor face rail_BODIES|1
+02 Gearmotor face rail_CYL|-62.000|28.500|1.000|0.000|0.000|-1.000|6.300
+02 Gearmotor face rail_CYL|0.000|28.500|1.000|0.000|0.000|-1.000|6.300
+02 Gearmotor face rail_CYL|62.000|28.500|1.000|0.000|0.000|-1.000|6.300
+02 Gearmotor face rail_CYL|-52.500|28.500|1.000|0.000|0.000|-1.000|1.700
+02 Gearmotor face rail_CYL|-60.250|41.923|1.000|0.000|0.000|-1.000|1.700
+02 Gearmotor face rail_CYL|-75.750|41.923|1.000|0.000|0.000|-1.000|1.700
+02 Gearmotor face rail_CYL|-83.500|28.500|1.000|0.000|0.000|-1.000|1.700
+02 Gearmotor face rail_CYL|-75.750|15.077|1.000|0.000|0.000|-1.000|1.700
+02 Gearmotor face rail_CYL|-60.250|15.077|1.000|0.000|0.000|-1.000|1.700
+02 Gearmotor face rail_CYL|9.500|28.500|1.000|0.000|0.000|-1.000|1.700
+02 Gearmotor face rail_CYL|1.750|41.923|1.000|0.000|0.000|-1.000|1.700
+02 Gearmotor face rail_CYL|-13.750|41.923|1.000|0.000|0.000|-1.000|1.700
+02 Gearmotor face rail_CYL|-21.500|28.500|1.000|0.000|0.000|-1.000|1.700
+02 Gearmotor face rail_CYL|-13.750|15.077|1.000|0.000|0.000|-1.000|1.700
+02 Gearmotor face rail_CYL|1.750|15.077|1.000|0.000|0.000|-1.000|1.700
+02 Gearmotor face rail_CYL|71.500|28.500|1.000|0.000|0.000|-1.000|1.700
+02 Gearmotor face rail_CYL|63.750|41.923|1.000|0.000|0.000|-1.000|1.700
+02 Gearmotor face rail_CYL|48.250|41.923|1.000|0.000|0.000|-1.000|1.700
+02 Gearmotor face rail_CYL|40.500|28.500|1.000|0.000|0.000|-1.000|1.700
+02 Gearmotor face rail_CYL|48.250|15.077|1.000|0.000|0.000|-1.000|1.700
+02 Gearmotor face rail_CYL|63.750|15.077|1.000|0.000|0.000|-1.000|1.700
+MOUNT_VOLUME|23 Gearbox face doubler|1492.835
+MOUNT_BMP|23 Gearbox face doubler|True
+MOUNT_STEP|23 Gearbox face doubler|True|0
+23 Gearbox face doubler_BODIES|1
+23 Gearbox face doubler_CYL|0.000|28.500|1.000|0.000|0.000|-1.000|6.300
+23 Gearbox face doubler_CYL|9.500|28.500|1.000|0.000|0.000|-1.000|1.700
+23 Gearbox face doubler_CYL|1.750|41.923|1.000|0.000|0.000|-1.000|1.700
+23 Gearbox face doubler_CYL|-13.750|41.923|1.000|0.000|0.000|-1.000|1.700
+23 Gearbox face doubler_CYL|-21.500|28.500|1.000|0.000|0.000|-1.000|1.700
+23 Gearbox face doubler_CYL|-13.750|15.077|1.000|0.000|0.000|-1.000|1.700
+23 Gearbox face doubler_CYL|1.750|15.077|1.000|0.000|0.000|-1.000|1.700
+MOUNT_VOLUME|REF Team JGB37 motor|82483.583
+MOUNT_BMP|REF Team JGB37 motor|True
+REF Team JGB37 motor_BODIES|1
+REF Team JGB37 motor_CYL|0.000|0.000|0.000|-1.000|0.000|0.000|18.400
+REF Team JGB37 motor_CYL|-9.500|0.000|-6.000|1.000|0.000|0.000|6.000
+REF Team JGB37 motor_CYL|-9.500|0.000|-6.000|1.000|0.000|0.000|3.000
+TEAM_BOX|-31.800|-18.400|-3.000|31.800|21.800|79.900
+TEAM_BODIES|1
+TEAM_CYL|0.000|0.000|0.000|0.000|0.000|1.000|21.800
+TEAM_CYL|0.000|0.000|0.000|0.000|0.000|1.000|18.700
+TEAM_CYL|-26.800|-8.400|57.675|0.000|-1.000|0.000|2.250
+TEAM_CYL|26.800|-8.400|57.675|0.000|-1.000|0.000|2.250
+TEAM_CYL|-26.800|-8.400|19.225|0.000|-1.000|0.000|2.250
+TEAM_CYL|26.800|-8.400|19.225|0.000|-1.000|0.000|2.250
+TEAM_BITMAP|True
+SAVED_ASSEMBLY|True
+COMPLETE

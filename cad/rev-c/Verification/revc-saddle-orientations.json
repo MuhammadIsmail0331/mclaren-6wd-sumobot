@@ -1,0 +1,51 @@
+{
+  "file": "outputs/McLaren-6WD-RevC/Print STL/04 PETG motor clamp saddle.STL",
+  "scale": {
+    "bbox_diagonal_mm": 64.2374,
+    "units_suspect": false,
+    "note": "bbox consistent with millimetre units"
+  },
+  "orientations": {
+    "angle_limit_used_deg": 45.0,
+    "pct_denominator": "total surface area",
+    "candidates": [
+      {
+        "orientation": "current_plus_z",
+        "support_area_mm2": 157.98,
+        "support_area_pct": 3.5,
+        "build_height_mm": 14.0
+      },
+      {
+        "orientation": "flip_180_x",
+        "support_area_mm2": 141.35,
+        "support_area_pct": 3.1,
+        "build_height_mm": 14.0
+      },
+      {
+        "orientation": "rot_plus_90_x",
+        "support_area_mm2": 0.0,
+        "support_area_pct": 0.0,
+        "build_height_mm": 21.2
+      },
+      {
+        "orientation": "rot_minus_90_x",
+        "support_area_mm2": 387.51,
+        "support_area_pct": 8.6,
+        "build_height_mm": 21.2
+      },
+      {
+        "orientation": "rot_plus_90_y",
+        "support_area_mm2": 350.01,
+        "support_area_pct": 7.7,
+        "build_height_mm": 59.0
+      },
+      {
+        "orientation": "rot_minus_90_y",
+        "support_area_mm2": 366.64,
+        "support_area_pct": 8.1,
+        "build_height_mm": 59.0
+      }
+    ]
+  },
+  "partial": false
+}

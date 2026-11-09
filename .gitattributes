@@ -1,3 +1,8 @@
 *.SLDASM binary
 *.SLDPRT binary
 *.png binary
+*.STEP binary
+*.step binary
+*.STL binary
+*.stl binary
+*.dxf binary
