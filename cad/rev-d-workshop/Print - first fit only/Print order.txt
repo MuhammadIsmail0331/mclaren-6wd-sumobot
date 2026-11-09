@@ -1,0 +1,12 @@
+RAC McLaren sumobot | Motor holder fit test
+
+Please print one copy of 01 PRINT ONE in PETG. The part is 60.75 x 43.3 x 32 mm.
+Place one flat axial end on the build plate so the motor bore is vertical.
+Start at 0.20 mm layers, 4 to 5 perimeters, 5 top and bottom layers,
+and roughly 30% infill in the thicker regions. Check the two floor holes,
+the original jaw hole, and washer seats in the slicer. Use local supports
+where the slicer preview requires them and leave the sleeve slit open.
+Please return the material and slicer estimate with the first sample.
+
+The tray and electronics deck files are optional fit prints after the team
+has gauged the real packs and PCBs. They are not part of this one-piece order.

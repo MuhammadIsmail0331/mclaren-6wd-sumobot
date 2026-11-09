@@ -1,0 +1,16 @@
+{
+  "occurrences": 168,
+  "envelope_mm": [
+    292,
+    290,
+    110
+  ],
+  "solid_overlap_threshold_mm3": 0.02,
+  "exact_candidate_pair_checks": 289,
+  "reference_overlap_pairs": {
+    "Shaft and rim reference": 6,
+    "Gearbox screw and unthreaded reference": 36,
+    "Rim and cast tread reference": 6
+  },
+  "unexpected_pairs": []
+}

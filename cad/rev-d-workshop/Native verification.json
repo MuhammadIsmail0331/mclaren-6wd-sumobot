@@ -1,0 +1,30 @@
+{
+  "solidworks_version": "2025 SP2",
+  "total_components": 180,
+  "visible_components": 168,
+  "unique_part_files": 40,
+  "visible_shaheer_mounts": 6,
+  "hidden_previous_mount_components": 12,
+  "envelope_mm": [
+    292,
+    290,
+    110
+  ],
+  "placements_verified": 180,
+  "solidworks_interference_counts": {
+    "Shaft and rim reference": 6,
+    "Screw entering unthreaded gearbox reference": 36,
+    "Cast tread and rim reference": 72,
+    "Jaw hardware edge contacts below 0.002 mm3": 12
+  },
+  "largest_jaw_edge_contact_mm3": 0.001685,
+  "final_rebuild_status": 0,
+  "final_save_errors": 0,
+  "final_save_warnings": 0,
+  "relocated_archive": {
+    "part_references_resolved": 40,
+    "load_errors": 0,
+    "cold_open_warning": 32,
+    "rebuild_status_after": 0
+  }
+}

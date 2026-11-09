@@ -1,0 +1,16 @@
+RAC McLaren 6WD | Flat pilot files, 1:1 millimetres
+
+Start with one 23 doubler coupon to gauge the actual motor boss and wheel.
+The 02 rail and 23 doubler omit the unverified gearbox screw pattern.
+Confirm bore before batch cutting, then transfer drill the measured pattern.
+No kerf offset included. Set it in the cutter.
+
+Scale checks: base 243 x 286, rail 184 x 42, wide 03 return 195 x 14.5,
+23 doubler 44 x 38, backing strip 186 x 20 mm.
+Target quantities after fit: 01 x1, 02 x2, 03 x2, 23 x6, 24 x2.
+Use 1.0 mm nominal steel for the structural trial.
+The old 12 mm wide Rev C part 03 is superseded.
+
+These files cover pilot flat profiles. The scoop, liner and any integral
+returns need the shop's bend allowance and joint details. See START HERE.md
+for the floor edge distance, nose joints and release checks.
