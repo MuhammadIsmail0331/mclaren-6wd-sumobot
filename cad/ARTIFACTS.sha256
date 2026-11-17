@@ -1,0 +1,186 @@
+f17aacdd6a34836c65c4d2ed9e4df1d7bce8f65828950ec0d5e4bf3697926790  cad/club-build/CAD fit audit.json
+1d3641db91e589074018f1839ce57e00b049e239760068ac544fe0e53d16195c  cad/club-build/CAD STEP/McLaren 6WD - Club build.STEP
+cb6d355075030693fd657d8f1384a45bd740d2f350d0108689344c7953704d51  cad/club-build/CAD STEP/Print parts/P01 Shaheer long holder.STEP
+7a2ee14c0ccb3141e1d6df68e3948974cddf1d840291ce5271dc594569916520  cad/club-build/CAD STEP/Print parts/P02 LiPo tray.STEP
+12b77e66b469b2daae66642d6147563b71360ec7633f94e46bde26969f6eaf56  cad/club-build/CAD STEP/Print parts/P03 Electronics tray.STEP
+89b42f3ace45a4f1f214159e94c66ccc116de3ad34d1a37ea968609adef4a209  cad/club-build/CAD STEP/Steel parts/C01 Base.STEP
+1019eded33c2dc5a9cc01c9ccadb382df81134edef48b576ccda6e7cf6539e20  cad/club-build/CAD STEP/Steel parts/C02 Folded motor rail.STEP
+7b2eb8297cf457a4d117239b541e626eb3fac4b9b419c8127421955f81769705  cad/club-build/CAD STEP/Steel parts/C03 Mount backing strip.STEP
+573968dd70adcd8c65eae2d1814642602fb9bcc5db192ddbf078534a08e59f91  cad/club-build/CAD STEP/Steel parts/C04 Gearbox doubler.STEP
+a4954666335ff0d50475ab5145d6885e213a747ee3ca2a180300fbb63a5fb22f  cad/club-build/CAD STEP/Steel parts/C05 Folded wheel guard.STEP
+1f9827ebaf4b8bd38a14a7feec273f607d18f6bcf46e913df16e47fc9783d4ae  cad/club-build/CAD STEP/Steel parts/C06 Folded rear wall.STEP
+a4d3bc7c9f27f98dbe86e540ecb5fed6e0425d8279eb85215597f45970edda5f  cad/club-build/CAD STEP/Steel parts/C07 Formed scoop.STEP
+8936588510a4c64081d9210f98bf533c79729a760fc4c2a3261e98ed5abb64e1  cad/club-build/CAD STEP/Steel parts/C08 Scoop web.STEP
+17476ab51887e3f7dc1a321508790d4863ca3d101c00cf9e6baa9b2ff80da2f9  cad/club-build/CAD STEP/Steel parts/C09 Floor spine.STEP
+47fc85822a6e5769e58eaf9a4fbf782b90533f19ca1beb51fb20c26bdda45765  cad/club-build/CAD STEP/Steel parts/C10 Electronics bridge.STEP
+a9d4da62c2c58527587ac2903a85e6fccd2fd7eece06976fe7196093b8d1f749  cad/club-build/Laser DXF/01 Flat parts and coupon/C01 Base.dxf
+f375c92148773bcfba8ad879e42c5756c8bdae11157741e6818753fa3b87e597  cad/club-build/Laser DXF/01 Flat parts and coupon/C03 Mount backing strip.dxf
+3a674f1f5e4e7471329a21b229cac6db58a93b1a2a48681ba667b9a8c9a14181  cad/club-build/Laser DXF/01 Flat parts and coupon/C04 Gearbox doubler and first coupon.dxf
+978cbd472610767a88229b3c388aa968af2d7a5cff58fca52062a5a3eab45c94  cad/club-build/Laser DXF/01 Flat parts and coupon/C08 Scoop support web.dxf
+41ec72fd481c1b40d6f657ff1f5b795f833e65e49111fb9c39bfb93fe147fc3a  cad/club-build/Laser DXF/01 Flat parts and coupon/C09 Floor spine.dxf
+a1760d0b377148715e290c3d363cc99340d4cd6af82c25b44314287ef227a94b  cad/club-build/Laser DXF/01 Flat parts and coupon/T01 Kerf and 90 degree bend coupon.dxf
+f724c2cb9438914c7400897f4cea3b0ca1250bd4b33bfdc7f604634a44238f11  cad/club-build/Laser DXF/02 Formed blanks after coupon/C02 Folded motor rail.dxf
+0c96fbd1899fcae4e986fcbad08d15d0c39e66c2921ad40fa82c9547e1c95912  cad/club-build/Laser DXF/02 Formed blanks after coupon/C05 Folded wheel guard.dxf
+ac2958ea85b02f77d1e8aee50bbc1b5411836ef450f1f94ca87dabb3a8d25c8e  cad/club-build/Laser DXF/02 Formed blanks after coupon/C06 Folded rear wall.dxf
+26bca596ab8da11d7ef3ce1af1d041c0d908daaf3a39f62afe1ec7f53f324269  cad/club-build/Laser DXF/02 Formed blanks after coupon/C07 Three-bend scoop.dxf
+f7293d58670dc6417a69a6fda01dc1d640aefb6fe3e37ceba709d7a71db8bd72  cad/club-build/Laser DXF/02 Formed blanks after coupon/C10 Electronics bridge.dxf
+bdf5f149a5f7aaf75032d52f194eb3bdef3f817bc58852da8de6d532872f1afe  cad/club-build/Laser DXF/Bend table.csv
+6a071ae0fe0ef28d86890a121379546484c25916d6a2c9c68357661bf40d9f82  cad/club-build/Laser DXF/Cut list.csv
+8b505c4c3cb21183ac05d1bb26303d9054fd367c0e8ce7dfc387b0fafb727652  cad/club-build/Laser DXF/Forming map.svg
+f82feeca4ea1ce3972d450d0957f624f129eab5bd5ec25728e0ccff0dd1555f6  cad/club-build/Laser DXF/Profile audit.json
+fa6c37017031ca55ad24ff84e754a21e691aa2241961d50c3f924c712309b953  cad/club-build/Laser DXF/SHOP FIRST.md
+13e01f7afe1ab94bb08146d8c0979048b1b381652c5fb7270d4c7e6de6f65927  cad/club-build/Native SolidWorks verification.json
+f95189446c5971cbfa048586e74129e7610e2a74eed2e092c18b8382c13596ff  cad/club-build/P01 Shaheer long holder.printcheck.json
+eead946f5e8ad2feccddb84de7baa69e26a45ac0eda5ff6194978b71352b0b68  cad/club-build/P02 LiPo tray.printcheck.json
+d7b9fb7dd32f1718c77976f9a6386122a621ad76415e557ca50fa6872f3b659b  cad/club-build/P03 Electronics tray.printcheck.json
+040c85849cf2b35ac56f166970de7f1066ea8eba5dba1fbf5bd5232141e211fd  cad/club-build/Print STL/P01 Shaheer long holder.stl
+4337eb65ba7487996b324af64239da4391cc0831fc96277c9b59b51fa8bf727b  cad/club-build/Print STL/P02 LiPo tray.stl
+f893328015e7b0b35f589fdbac19825731d8f96a7cd8bc5c7dd65be4ff2ec5f1  cad/club-build/Print STL/P03 Electronics tray.stl
+8b4a47416b8f59548868140c9bb64bbfc2a11af1c533bdd3e18cec8b3f15ae63  cad/club-build/Print STL/PRINT ORDER.txt
+43418f79bbb77b3570edd5981c6f9b7eceece77cd656591d77da0544ef83e97f  cad/club-build/README.md
+350b1430906c55fda2144dd824f98ecde4752bd3164db2a84e6fc2e31aabd5ef  cad/club-build/Review before cutting.md
+b0ee8190f5b4155875849ced0c1060497aa684bfe46cf5e17f80510c2216abed  cad/club-build/Shop handoff/01 Cut order.png
+e0894932504ee797bed3feb05c786edcf7e29ae48cd58ccf280b20e0736de4ec  cad/club-build/Shop handoff/02 Bends and rail weld.png
+0b4141e96d1237ec41f30439f4b13b95e28124ddbfb1b7f113bc4a2cd9b8fd9f  cad/club-build/Shop handoff/START HERE - RML.txt
+e51aa618bdf51874ea7c32029b99cd4460662d235b19e231aa34d0551cd56bb0  cad/club-build/SolidWorks/22 Silicone tread envelope.SLDPRT
+64f3e79fdc1d996653ce9253ffbbe32b63dccdcaf5eb6cca6aa92d6501162c53  cad/club-build/SolidWorks/24 Clamp backing strip.SLDPRT
+60614e31ab54a070c016ca959fb24e3d1f2b81623c48cc29d392292a57581019  cad/club-build/SolidWorks/29 REF M3x5 face screw and washer.SLDPRT
+ed6cb6aac0360ed31f0419625457162451ecff1ace575728942e3c625d90a39a  cad/club-build/SolidWorks/31 REF M4 locknut and washer.SLDPRT
+50143a00cce456272e2a263cde8af3344120833b1d4c9351d754a1b3be71212b  cad/club-build/SolidWorks/33 REF M4x20 low-head floor bolt.SLDPRT
+bfe5297bcef944a2b248da359420ffcf20567ffb040cc5f4e7302a42134f0aca  cad/club-build/SolidWorks/35 REF M4 narrow washer and locknut.SLDPRT
+0adbc15c35230d949bd91831c0c358bc258cd144fa276d2786bd6d561db20d6f  cad/club-build/SolidWorks/C01 Base.SLDPRT
+27042d7d5edaabc6ad827e85c64de92e7b5805731e60788dd6d20c45aa38b048  cad/club-build/SolidWorks/C02 Folded motor rail L.SLDPRT
+bafa3d717bcc3195a983d9369f1ac25ee8c3cc996d82d7727af5b45c1af60ecb  cad/club-build/SolidWorks/C02 Folded motor rail R.SLDPRT
+b9af2d40de53041ff3e3b03a6515bdf12f404f138a38490a29f55354e880d942  cad/club-build/SolidWorks/C04 Gearbox doubler.SLDPRT
+531c439c894c1944a0a1a7f42df1afd6c7b1a976a5a9dbf7d0b44560c1ddff02  cad/club-build/SolidWorks/C05 Folded wheel guard L.SLDPRT
+a5beec227ffe529ca6d2686d0816fe8af5f4ecb1cfae9096a86fa6f67f84a402  cad/club-build/SolidWorks/C05 Folded wheel guard R.SLDPRT
+4012586566840c309573057ceffe5abf36abc00b963671435b4c8e2a20a0e912  cad/club-build/SolidWorks/C06 Folded rear wall.SLDPRT
+d90ca4cfebd964a393e9047e93dade9e2cc429925b39a64bc13168c442e67c17  cad/club-build/SolidWorks/C07 Formed scoop.SLDPRT
+a2c840e758de06f145e28d4f438a244869bf3d0f80adb7d38d6580efd9c4a020  cad/club-build/SolidWorks/C08 Scoop support web.SLDPRT
+dd83fc77f0eb009a96564e5e34eae83cb11fd916e23138aa970f4d8a71955b0a  cad/club-build/SolidWorks/C09 Floor spine.SLDPRT
+2cdfaa1b411df46b7853d93c8bcb3b0fc54fd08ff229c56342434127f623dd36  cad/club-build/SolidWorks/C10 Electronics bridge.SLDPRT
+e721c7d0d25557617a719127b66d5a8ea6d95822d9dea4f874951c637314823d  cad/club-build/SolidWorks/McLaren 6WD - Club build.SLDASM
+a2bf81d9a86e140a185c8dbb0e63b9e2e620e4e471184dce8cf09e0e5beecf60  cad/club-build/SolidWorks/P01 Shaheer long holder.SLDPRT
+70da215391dcbf42793c141f8b6ae03ffe0027ef0d8aca6ae2551e2f0254fed3  cad/club-build/SolidWorks/P02 LiPo tray.SLDPRT
+331e9f2d1e49d91ec04df10c3094080549b69b293adad45e7b0eee72a82f078c  cad/club-build/SolidWorks/P03 Electronics tray.SLDPRT
+bda87d03aaa985640f2ad2b4b8f044d6da0328635558f188355f149b92b1d8c4  cad/club-build/SolidWorks/REF ESP32 plus buck space.SLDPRT
+9b4fb6fcb308495a98babd46e9bd943a63fda3630e2a023ed5656a11fca80a81  cad/club-build/SolidWorks/REF Team IBT-2.SLDPRT
+8efb2541e7c258c1da69aaa895bae0af99055b32881aab9777db5717462d1be7  cad/club-build/SolidWorks/REF Team JGB37 motor.SLDPRT
+5e64d041efe8b84fe4ef4647ceddcd2c6b72824c5819f3f1ffdc36f816760d4b  cad/club-build/SolidWorks/REF Team rim 0.22.SLDPRT
+9cbfea0caac7b5a5a4ea2261f9071f6832c864036f907b3c697932995acd60b4  cad/club-build/SolidWorks/REF ZOP 3S fit allowance.SLDPRT
+0dac8dc95cdb0b96c105cb4dacf942789847420fb1336281e71dda560637c165  cad/club-build/START HERE.md
+a2374eb144ee9f3a70fa6ed8e42d276eac35d2cef000f110c1a5516efdf568e6  cad/hex-wheels/Checks/audit-native-hex.log
+4d5ba4b60f2b804eb050ef331306633104b92c67986ca745040d199cef61fa04  cad/hex-wheels/Checks/Final verification.json
+ec77ddcfd9148d3685ab63fc58f7e6eed73a376fbf1361121e2ae7ea3c427c66  cad/hex-wheels/Checks/finalise-hex-entry.log
+5e17fb98f6ad658b41def9cfcd8c324e488167d85c20846dd392fe5aeeae1e67  cad/hex-wheels/Checks/Geometry audit.json
+09d47eeb199c7b092aa7d9e9bfab4d4ddebe5645c6d40d46e8994abb1ddc39cc  cad/hex-wheels/Checks/M01 Mould base - orientations.json
+ef1974f66175e308a3b2440bc8c69258dc2a343c46771e1dc876a76340d36cb6  cad/hex-wheels/Checks/M01 Mould base - printability.json
+d1e6a3a0b908113a8b17e65724130699d53caad21f671420e79f45e1f06e102d  cad/hex-wheels/Checks/M02 Mould wall A - orientations.json
+ae4d55c4829e6fe904e8c396a37919a3110f850701dcf88279ab8c78822e78d0  cad/hex-wheels/Checks/M02 Mould wall A - printability.json
+4c024e25851f129ea6faf7b25d4929568b76e8bdfb0bb4d71e45c76b71c46e3f  cad/hex-wheels/Checks/M03 Mould wall B - orientations.json
+6b757779bd3f7770178cd87f0a2bbe17cfbb610dd5f499612c15c2694085432c  cad/hex-wheels/Checks/M03 Mould wall B - printability.json
+45a34fe880cb2c4332067d5a6e345b1cee1ef3ed23dbfaaf73e8446e7f90faff  cad/hex-wheels/Checks/M04 Hub sealing cap - printability.json
+de252704be70ad31eb4c847b810983bcbbaceb2fba03dbf039c1ee4ff5c6c3ca  cad/hex-wheels/Checks/Mould hardware audit.json
+e28e58057153aa8b118de17e73ceb81d64b6d6801ca699d0321223137c373014  cad/hex-wheels/Checks/native-hex-rim.log
+68ee5958907e6802a6f17edcb840b5315390124a1c461af6b0d567243cfb0986  cad/hex-wheels/Checks/P04 Shaheer rim - recessed hex - orientations.json
+658fbee68d769a71ae249cac023f3bc051276a53b8779714729099650df0d4ae  cad/hex-wheels/Checks/P04 Shaheer rim - recessed hex - printability.json
+c4d227b9e3c2d3693f1aab6351a655cbbd804294e5fd390d01ad50e03e2001d9  cad/hex-wheels/Checks/refresh-hex-native.log
+db58482727a92eb72b67cc2122f46228c0a4123f4d18b8141115371f86bfc2e5  cad/hex-wheels/Checks/T02 Hex hub fit test - orientations.json
+de5aec1519b4ee30142a9ed8c1e0e82a766e51df935b7ebc4fa453fe8aa96bec  cad/hex-wheels/Checks/T02 Hex hub fit test - printability.json
+0bc0823b6405b3946db014603d45bb5e8aee98afdc534c92faf3705745a9ad6c  cad/hex-wheels/Hardware for wheels and mould.md
+760061d1bb6771bf217a51b827e19ad46a0c13eb47bbd3011f0d284f348f9c25  cad/hex-wheels/Laser washers/CUT ORDER.txt
+7d3c0670798672e79f7f83c5d406c2b74af241a0721f98d19b83dd50399b6017  cad/hex-wheels/Laser washers/W01 M4 floor washer - 9 mm.dxf
+297c5a6a41999b89e29aa14e25a13be448e79d3970f293403d8825bc1e881420  cad/hex-wheels/Native assembly placements.json
+94ca8f2d3dd18981dc017adea996e1f892e4bc6034b2400d31903b845f79704d  cad/hex-wheels/Original native inspection.json
+3fb217a2624d9b079dc20a1ff091355b601ed84dcd6dc749b9396084a24df8fe  cad/hex-wheels/Original Shaheer/rim part w hex coupling.SLDPRT
+dad13363bbd0ad16d02723ebf7135825b4e653f7315574e2fcc5ca1de643614b  cad/hex-wheels/Original Shaheer/SHA256.json
+778cf0d9331b578dd52fd112720dd0b40f1c5f5b8ce5c4197e8fde4e51cfbed3  cad/hex-wheels/Original Shaheer/wheels sumo v hex.step
+ef383aa0a04502c6018575ff21aaf797bd1b50b692a639521f4f06afbe3b20d4  cad/hex-wheels/PRINT ORDER.txt
+4420c8ee5fc7eb0a55a36ed157f6ecc552037190a185097584fc4a2781dad07a  cad/hex-wheels/Print STL/M01 Mould base.stl
+e76e22ce72b5bf29379917552f9b17210687851c886cfb3272a70dace0caee85  cad/hex-wheels/Print STL/M02 Mould wall A.stl
+76fcdb0a1c3ae26cda82a68b544e39779a2caf43e9d37a6844c53db19f9dc76e  cad/hex-wheels/Print STL/M03 Mould wall B.stl
+cf34ff9c7fec3f9277ea839ff638165c2114c2aaa0c04d659eaa766283d6e200  cad/hex-wheels/Print STL/M04 Hub sealing cap.stl
+3863c38cce1a6e789ca57ed5acdd997722e934c052689c5e3397e27a9ebbe579  cad/hex-wheels/Print STL/P04 Shaheer rim - recessed hex.stl
+f3b8858fc9136cc7cd115e71c475d4207e44793ad640f977d48dfe2121834da7  cad/hex-wheels/Print STL/T02 Hex hub fit test.stl
+eb255159d983cbe65e4f9cbb293867e6da75bb400d4b68faa1808885dbbc6de3  cad/hex-wheels/README.md
+9cf9d0919adcdba12fadfa7e30268263d1d59483dee0d41aaa7a8e42b01b11b0  cad/hex-wheels/SolidWorks/24 Clamp backing strip.SLDPRT
+7c8f334739b023bcd9adff7a5530b63672bc36b7c1c0ba802cdb2a4650dc6674  cad/hex-wheels/SolidWorks/29 REF M3x5 face screw and washer.SLDPRT
+46d7d0d0c169098cf8984141b9b9bacef232ce6c13e752468985770f42ec756e  cad/hex-wheels/SolidWorks/31 REF M4 locknut and washer.SLDPRT
+324fbac8451789e038743dea0f9b4cc5ca88e37c9eb61193f85e4d5efca909cb  cad/hex-wheels/SolidWorks/33 REF M4x20 low-head floor bolt.SLDPRT
+fee632d842d5b811d3111ceddcbe05055c56d226e9659df2bbf02b1e27deffd3  cad/hex-wheels/SolidWorks/35 REF M4 narrow washer and locknut.SLDPRT
+82a2c4ae93c35313a2a2bf60a9b11c1dbcb4fb9e22ae0070c86402e7580f3c85  cad/hex-wheels/SolidWorks/C01 Base.SLDPRT
+6dc8d49c097ee503785017c21598579376fde4223345dc0736987de0971af998  cad/hex-wheels/SolidWorks/C02 Folded motor rail L.SLDPRT
+fc50c0f9152072b0598f850b23cd790bcd0651a9398f3174f3a07987524ab8dd  cad/hex-wheels/SolidWorks/C02 Folded motor rail R.SLDPRT
+350474c811a3a1f5db426ac2631bcacab79d782783dac606c19a03b5b84827db  cad/hex-wheels/SolidWorks/C04 Gearbox doubler.SLDPRT
+504975df756059c9de57aaea9ec6ea600ea079d82f0fd7e1084c3a6ca55cfa13  cad/hex-wheels/SolidWorks/C05 Folded wheel guard L.SLDPRT
+8a6608ef4b7efd5944caaa3e52c04bd7d959169ac1ef25777909a7e99147f535  cad/hex-wheels/SolidWorks/C05 Folded wheel guard R.SLDPRT
+490cac6390bef03880412539f96feaef3c22c5d4a59c0b4fe28dfb57f8b0936d  cad/hex-wheels/SolidWorks/C06 Folded rear wall.SLDPRT
+99b3c632840c392a4ad668029450a421a8f6e677e2461c1034304363550f99fe  cad/hex-wheels/SolidWorks/C07 Formed scoop.SLDPRT
+7b5670a077ddcc2a2edbbc001434dc951b3de5a699bc2c389839072bcabdae26  cad/hex-wheels/SolidWorks/C08 Scoop support web.SLDPRT
+82e2d4e50cc880b546acaca326382fd8de15bca251ad63ee927bd743e2f89187  cad/hex-wheels/SolidWorks/C09 Floor spine.SLDPRT
+0955fff01e98b829f527838b8bbb0c5650e794b2846b71fd7b42c139c93725b7  cad/hex-wheels/SolidWorks/C10 Electronics bridge.SLDPRT
+f07dbb68baa6596750362e656a19f1043aa7f5af0816a4313e00f9a8b6546837  cad/hex-wheels/SolidWorks/M01 Mould base.SLDPRT
+84d4063b80fc459d36a93f828ec16f14a30e412bd932bd5b66195210479be812  cad/hex-wheels/SolidWorks/M02 Mould wall A.SLDPRT
+740d7d69e3e9732f4823ca94d747f704d00843cbea75f46f725be4fa7f6c908c  cad/hex-wheels/SolidWorks/M03 Mould wall B.SLDPRT
+e0f5dec55a3ee1a1fda8e02633a4844e6f7e72c89276144af04ffa155d90972a  cad/hex-wheels/SolidWorks/M04 Hub sealing cap.SLDPRT
+943a0ecd7d245806df31ae455c793c8067c1e53efd3361d3d32cfc20aaee42de  cad/hex-wheels/SolidWorks/McLaren 6WD - Club hex wheels.SLDASM
+d86d3a9301aa35e8c5256d14b48945f3bd65d86db541f7e9ab5f044bc0ad76e2  cad/hex-wheels/SolidWorks/P01 Shaheer long holder.SLDPRT
+68359d3ad552fb09f70b683095ef7bbe90948b544e19fb0faeb45d6c27d55f7f  cad/hex-wheels/SolidWorks/P02 LiPo tray.SLDPRT
+2c60e9af29d83a4baea5845b2fa4661f79fe2eee1aed78e95bfaf60f5f505f2d  cad/hex-wheels/SolidWorks/P03 Electronics tray.SLDPRT
+8cbe1c5783a7145bb0a620cfb66d01ccde34842e0256eeb23152502099fbdde4  cad/hex-wheels/SolidWorks/P04 Shaheer rim - recessed hex.SLDPRT
+c82910c222e1e96e72d8302d9cff65c974e652a1530f8790a0623a22d228b109  cad/hex-wheels/SolidWorks/REF Brass hex coupler 6mm.SLDPRT
+2bb35b452f2310f6697169df335579aa9e1b1af88c45cc6a325adc936ef61f84  cad/hex-wheels/SolidWorks/REF Cast silicone tyre 57x33.SLDPRT
+c24dc9c356909ad9875693f39ff88d381a36847ccb3bc924ffa25d2a34ba138d  cad/hex-wheels/SolidWorks/REF ESP32 plus buck space.SLDPRT
+25b7ca74bd511d680241f83facffad77185e75dac3fc0512552cc7ccf56719ef  cad/hex-wheels/SolidWorks/REF M4 mould nut and washer.SLDPRT
+f29916cab8b0c5f29f97a5ef42f5a672dc42d01de138b840ae217d91e6a5f664  cad/hex-wheels/SolidWorks/REF M4x10 wheel screw and washer.SLDPRT
+afaf7d40055241ffa6883e00b677b93026e98c40bc05f26f833837894cbbf33d  cad/hex-wheels/SolidWorks/REF M4x20 mould side screw and washer.SLDPRT
+9521b72889aae4c87396fc6f697a031bd5ae3a135526410b66e0922cf8279632  cad/hex-wheels/SolidWorks/REF M4x50 mould centre pin and washer.SLDPRT
+e7123254960510a218dcc370d9a2f328f99a0e82beed0bb8c5cc07ee30967130  cad/hex-wheels/SolidWorks/REF Team IBT-2.SLDPRT
+306a35de8bf64955751ac1a7453c728a620929c0413606d7cf44bdb7bdf8c307  cad/hex-wheels/SolidWorks/REF Team JGB37 motor.SLDPRT
+227ab55fe5d56e12793dd1236d157a8034eb703ca39712f632d6d1f7b4b22ee3  cad/hex-wheels/SolidWorks/REF ZOP 3S fit allowance.SLDPRT
+e47a3fe762082dd3b92c84ad8c19057563a5c866ce6798feb79954d8b142c087  cad/hex-wheels/SolidWorks/Split mould - assembly.SLDASM
+de9665d55d6a437f3963793b9ab5a8d9ebc6ce6b6bbc6d5d24659b58f83caa0f  cad/hex-wheels/SolidWorks/T02 Hex hub fit test.SLDPRT
+95d4d2ee3ee331dff46fae06e402003a9deca3bee8d7b7d6a27d99c2266335d8  cad/hex-wheels/SolidWorks/Wheel and coupler.SLDASM
+5460dfae98e8ba9e7e3e7312e994ccf3130fc043f23bb9f7a5a911b06fc29ffe  cad/hex-wheels/START HERE.md
+d640ace11a3a8229c8b45b14558929fa5ae23b1d20a96b343a70938fa91f105e  cad/hex-wheels/STEP/M01 Mould base - print axes.STEP
+0df5465c944430e20f19a2c3fc8a124b434abe5e48897de2eda5225fa2865394  cad/hex-wheels/STEP/M02 Mould wall A - print axes.STEP
+d1c2dd32dc82ceb0ce51eba9a5d1ae2c8548c638e9c156f07bae477363586793  cad/hex-wheels/STEP/M03 Mould wall B - print axes.STEP
+3ad520be54a805cecdbe660c1c2903a895690ade69fa11298a41943def3bee62  cad/hex-wheels/STEP/M04 Hub sealing cap - print axes.STEP
+3d84ce703226c664c8531d120d7135e4059f8d833f46b617abb9586678cb01a4  cad/hex-wheels/STEP/McLaren 6WD - Club hex wheels.STEP
+10b4a44609ae0b2104d8f539e5dcbc56da85fa3efda1ca3f7657f1fc968aee94  cad/hex-wheels/STEP/P04 Shaheer rim - recessed hex - print axes.STEP
+7d9c4cab780fa5c014cd4262a276e641d338248b8e65f7a1cfb5a19d2810d530  cad/hex-wheels/STEP/P04 Shaheer rim - recessed hex.STEP
+ec1f9a88c47bbccec02fe9d5b40c40c0ac084ce836a14ca642097ad07fde703b  cad/hex-wheels/STEP/REF Brass hex coupler 6mm.STEP
+ac50902bbb1d251dc59b47913daedf4074b70767c02d7b8a8d3ac60e74708c66  cad/hex-wheels/STEP/REF Cast silicone tyre 57x33.STEP
+078add104672b967cab90755fb26c91174500fdbfc28919f8a61bc94b2f5c146  cad/hex-wheels/STEP/REF M4 mould nut and washer.STEP
+a0c40afa4b7038f97d3cad5309166ea58b8fb9e11597070568059bd8cf758101  cad/hex-wheels/STEP/REF M4x10 wheel screw and washer.STEP
+f5291c57f471ebf49939e0e2d4c02823749dcf63f6eb6cc29e6f737151ab2e4d  cad/hex-wheels/STEP/REF M4x20 mould side screw and washer.STEP
+91ab1818eaa93d02abe087690d3618096f4d3bf3c22576fe791321901cdc75d0  cad/hex-wheels/STEP/REF M4x50 mould centre pin and washer.STEP
+f82aa164a49bfa624e56ace6d072635fbefeeda6df48b2e965cfa11d8cdef453  cad/hex-wheels/STEP/Split mould - assembled.STEP
+77d1ff47e189da211c56b4e704cd3427931174b3d833b40212f4ecbdc3783b76  cad/hex-wheels/STEP/Split mould - exploded.STEP
+dc948be71a6dc59f8cd1c697ddec8fde12aff43c8bf15b0047e4f1d5b9365ac8  cad/hex-wheels/STEP/T02 Hex hub fit test - print axes.STEP
+688f71936939dd6efe18cc2bf29229b10a59b1829f56985af8bd75d0df740c68  cad/hex-wheels/STEP/Wheel and coupler - assembled.STEP
+ca5f6242a0bfb014daf658c6539406957758852f5f8a98c83ffbc73e5c848b91  cad/hex-wheels/Views/Club hex wheels.png
+ded0e1b9ef467f4209bd9ca4fd328269f70f6457bae8654296ded83b867b596f  cad/hex-wheels/Views/Print and assembly guide.png
+162f72daa78c442b6225d9564b5642c6d8220ae3ed8e17ae7d872b1a90f007d9  cad/hex-wheels/Views/Split mould assembled.png
+986167c5685f3c63b89a4767cd6a290f8088d13c4dc04339048e9123ec20a61d  cad/hex-wheels/Views/Team explanation - rim and mould.png
+c7a87d959ffb797a86c1e8cd554c01b2ecc8c743538452c3201f11ba355fc21a  cad/hex-wheels/Views/Wheel with silicone.png
+fc5e1dd582e89bba73436c7cd070b3d1c0bcc106afc0ec62f78f03e99d39a397  cad/wheel-v3-test/Checks/01 Rim - print ONE - measure.json
+fa636517d090f33c74d00e82333b839c73ee212ab312607c8b48a8a7c60abb6c  cad/wheel-v3-test/Checks/01 Rim - print ONE - orientations.json
+12cd531769086791c7eb7d9089bd7fc8dd2bfab61665184408a3ed64f0472913  cad/wheel-v3-test/Checks/02 Mould base - print ONE - measure.json
+68157cefd746eabd76c54249f36343465d4c15852ae5f7c0a931b13ef964c6b4  cad/wheel-v3-test/Checks/02 Mould base - print ONE - orientations.json
+1591baa9bc260c6364ff437f9290ba8a794b7e48b360e8566906444f5c081414  cad/wheel-v3-test/Checks/03 Mould wall - print ONE - measure.json
+0dab0ac259c03602115890ee850717f26bca5c9af618d38f4d0ee05a8118965c  cad/wheel-v3-test/Checks/03 Mould wall - print ONE - orientations.json
+7296be2ba953702058b24e55574cf4512a999e2f813fae345dc348dc83024426  cad/wheel-v3-test/Checks/Base clip to wall section.json
+9ab81c1edb6dc948675d4449e6bff57e26b14097a768b07ccb34b5188460825a  cad/wheel-v3-test/Checks/Geometry check.json
+615a1332cad5fca11ffaf19a6d95066fafe7f2cfa6e2a8bf036f22132a300d9a  cad/wheel-v3-test/Checks/native-export.log
+52bcef5bb2be03a5351d47b728cc31384e53c9afc27effd72287068be36e4a55  cad/wheel-v3-test/Originals/mold wheel base.SLDPRT
+904a8138928df4588bc750d16e3674f4463f8de6a89e171249f746fac3be0a7a  cad/wheel-v3-test/Originals/mold wheel top.SLDPRT
+df365fdf3d3b1b9b142280b66c53f165d6bc33ad1669f4f21a2c2c8a65f13b47  cad/wheel-v3-test/Originals/SHAHEER wheels sumo v hex 3.SLDPRT
+f486a51c0289a89161417e62ffc1b76dc20b97db30b8c6bea6b1c11308a54d97  cad/wheel-v3-test/PRINT ONE EACH.txt
+cc8268525e185a088e637537ee575b2ad4fe63c08d917eef5072a57f0bea4722  cad/wheel-v3-test/Print STL/01 Rim - print ONE.stl
+ae95e2f1992700ebb97939f25b4dd4987af309d121a3e2d4761a9c87ce38cff5  cad/wheel-v3-test/Print STL/02 Mould base - print ONE.stl
+a47d486211132af019eb51222055a75fc6a4e6313ef29f2d2893f407f7a1143d  cad/wheel-v3-test/Print STL/03 Mould wall - print ONE.stl
+1ec8f5c5690541a331c3df4dc9705142e4577a954708c20ef62ebf70fa645c3f  cad/wheel-v3-test/README.md
+5fc5bfee3bf3a517e6fdde4fdfff3c0bf1a55640f191f141c531ed30c385de9b  cad/wheel-v3-test/STEP inspection/01 Rim - revised centre.STEP
+ce1e7ca56666b4809a91329000e3f568b31f335e6a2b7002e03ef27cfd7504fe  cad/wheel-v3-test/STEP inspection/01 Rim.STEP
+4e2f2fba8a1fb7d80902031dce0a349c377be06ced540fdfe25daee45e66d083  cad/wheel-v3-test/WHAT CHANGED.md
