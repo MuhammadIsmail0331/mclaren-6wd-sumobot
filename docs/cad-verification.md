@@ -1,6 +1,32 @@
 # CAD verification
 
-## Rev C: latest saved fit prototype
+## Club, hex-wheel and V3 evidence added 18 November 2026
+
+| Saved set | Recorded evidence | Limits |
+|---|---|---|
+| Club chassis | Reopened/rebuilt; 108 fixed instances, 25 part files, no external dependencies | Physical gearbox/holder/weld tests remain open |
+| Integrated hex wheels | Reopened/rebuilt; 120 instances, 27 robot references; 294 x 290 x 102 mm | Fixed placements; no FEA, casting or impact test |
+| V3 wheel/tool | Three final STLs watertight, one body each, mm scale; revised rim BRep valid; zero overlap with saved adapter reference | Not integrated into native robot; actual print/coupler fit untested |
+
+See [Club native audit](../cad/club-build/Native%20SolidWorks%20verification.json),
+[hex-wheel final verification](../cad/hex-wheels/Checks/Final%20verification.json),
+and [V3 geometry check](../cad/wheel-v3-test/Checks/Geometry%20check.json).
+The V3 base/wall section at Z=8 mm has no crossing boundaries or sampled boundary
+midpoints inside the other part, with 0.225 mm minimum section gap; this is one
+section, not a complete mesh collision proof. The mould base's native file gave
+future-version error 8192 in SolidWorks 2025, so supplied author STL exports were
+checked instead. Original native mould feature trees were not inspected.
+
+V3 wall samples: rim minimum 1.498 / fifth percentile 1.998 mm, base 2.207 / 4.000,
+wall 2.139 / 3.977. The rim retains a local thin lower recess feature that is below
+the generic 1.6 mm unsupported FDM guide; support/inspect it during the first print.
+The hub's nominal walls are 3.0 mm at the barrel entry and 3.34 mm at hex corners.
+Mesh sampling and passing package checks are not exhaustive wall or strength proofs.
+
+The original report dates and values are preserved. Publication does not imply
+that physical tests happened today. Known holder floor-hole work remains open.
+
+## Rev C: archived fit prototype
 
 SolidWorks 2025 rebuilt the native Rev C assembly with **162 component instances and 36 unique native part documents**. It was reopened, its referenced component paths checked, and all 36 parts plus the assembly reported no pending saved changes. Native saving returned success with zero reported errors and warnings.
 
