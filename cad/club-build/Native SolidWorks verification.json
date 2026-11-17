@@ -1,0 +1,26 @@
+{
+  "native_assembly": "McLaren 6WD - Club build.SLDASM",
+  "reopened_and_rebuilt": true,
+  "saved_clean": true,
+  "instances": 108,
+  "native_part_files": 25,
+  "shaheer_holders": 6,
+  "identical_battery_trays": 2,
+  "placements_match_club_plan": true,
+  "external_part_dependencies": 0,
+  "bounds_mm": [
+    -142.0,
+    0.0,
+    -145.0,
+    152.0,
+    102.0,
+    145.0
+  ],
+  "unique_reference_interference_pairs": {
+    "wheel and rim reference": 12,
+    "unthreaded gearbox reference": 18
+  },
+  "unique_small_fastener_contacts_below_0_002_mm3": {
+    "bolt or narrow washer against PETG holder": 12
+  }
+}

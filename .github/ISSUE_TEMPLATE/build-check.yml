@@ -1,0 +1,32 @@
+name: Build measurement or fit problem
+description: Record a real fit, print, casting, wiring or fabrication result.
+body:
+  - type: dropdown
+    id: revision
+    attributes:
+      label: Revision
+      options:
+        - V3 wheel-only test (not in native robot)
+        - Club hex-wheel native assembly
+        - Club chassis baseline
+        - Rev D Workshop
+        - Earlier revision
+    validations:
+      required: true
+  - type: input
+    id: part
+    attributes:
+      label: Part ID or filename
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Measurement or observed problem
+      description: Include units, material/settings, actual hardware and what happened. Upload only project images you may share publicly.
+    validations:
+      required: true
+  - type: textarea
+    id: next
+    attributes:
+      label: Expected behaviour and proposed next check

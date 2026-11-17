@@ -1,30 +1,51 @@
 # McLaren 6WD Sumobot
 
-A RAC chassis project for remote-controlled robot sumo: six JGB37-550 gearmotors, custom silicone tires, two IBT-2 drivers and two 3S LiPo packs. Each driver and pack serve one side.
+A RAC student sumobot built around six JGB37-550 gearmotors, custom silicone tyres,
+two IBT-2 drivers and two separate 3S LiPo supplies. The Club design combines a
+1 mm welded steel frame with printed long motor holders and insulating trays.
 
-**Rev D Workshop is the latest published fit prototype.** It uses the team's adapted split sleeves and widened motor-rail returns. The native package was extracted and rebuilt in a separate folder in SolidWorks 2025.
+**Latest full native assembly:** [Club with hex wheels](cad/hex-wheels).
+**Latest wheel-only test:** [V3 rim and mould — one of each](cad/wheel-v3-test).
+The V3 test rim has not yet been inserted into the complete native assembly.
 
-![Rev D workshop isometric view](cad/rev-d-workshop/Native%20assembly%20view.png)
+![Club hex-wheel assembly](cad/hex-wheels/Views/Club%20hex%20wheels.png)
 
-| Start here | What is included |
-| --- | --- |
-| [Rev D workshop build](cad/rev-d-workshop) | Native assembly, 40 referenced parts, STEP, first-fit print files, pilot laser profiles and hardware list |
-| [Rev C CAD and exports](cad/rev-c) | SolidWorks 2025 assembly, 36 part files, assembled STEP, individual STEP exports and views |
-| [Motor mount review](cad/rev-c/Motor%20mount%20review.md) | Positive gearbox restraint, printed clamp fit, hardware, height and ground clearance |
-| [Fabrication joint review](docs/fabrication-joint-review.md) | Team proposals for front support and rear corners, plus the joints to finish before cutting |
-| [Rev C build and shopping list](cad/rev-c/Build%20and%20shopping%20list.md) | Sheet parts, PETG print settings, fasteners and bench checks |
-| [Motor supplier check](cad/rev-c/Motor%20source%20verification.md) | Electrobes dimensions and the unresolved interface details |
-| [Parts and quantities](cad/rev-c/Parts%20and%20quantities.csv) | Make, print, source or reuse for each CAD part |
-| [CAD verification](docs/cad-verification.md) | Saved native checks, scope and limitations |
-| [Earlier CAD](cad) | Rev A and Rev B preserved for comparison |
-| [Research brief](docs/research-and-design-brief.md) | Initial rules research, sizing and wedge tradeoffs |
+| Need | Start here |
+|---|---|
+| Open the full robot in SolidWorks 2025 | [Hex-wheel assemblies and parts](cad/hex-wheels/SolidWorks) |
+| Print one V3 wheel/tool test | [Three STLs and casting sequence](cad/wheel-v3-test) |
+| Cut, bend and fixture the Club steel | [Laser profiles](cad/club-build/Laser%20DXF) and [shop diagrams](cad/club-build/Shop%20handoff) |
+| Print holders, battery trays and electronics tray | [Club chassis print order](cad/club-build/Print%20STL/PRINT%20ORDER.txt) |
+| Buy fasteners | [Counts, lengths and fit restrictions](docs/fasteners-and-supplies.md) |
+| Wire the two packs | [Power distribution and bench checks](docs/power-distribution.md) |
+| Compare revisions | [Revision guide](docs/revision-guide.md) |
+| Inspect the evidence | [CAD verification](docs/cad-verification.md) |
+| Download a complete package | [Releases](https://github.com/MuhammadIsmail0331/mclaren-6wd-sumobot/releases) |
 
-Download the native Rev D archive from [Releases](https://github.com/MuhammadIsmail0331/mclaren-6wd-sumobot/releases). Extract the full archive and open `SolidWorks/McLaren 6WD - Workshop.SLDASM` with its part files beside it. Keep revisions in separate folders because some component names are reused.
+Extract each native revision into its own folder and keep its referenced parts
+beside its assembly. The Club hex-wheel assembly contains 120 fixed instances
+and resolves 27 unique part definitions. It is a geometric fit prototype, not a
+motion-mated simulation or a demonstrated competition result.
 
-The package includes eight STL print files and five flat motor/floor DXFs. The DXFs are **not a complete chassis flat-pattern set**. The scoop, formed members and proposed joints still need shop-specific bend and joining details. Print one motor clamp pair and verify the delivered gearbox interface before batching the motor mounts or rails.
+The nominal Club outline is **294 x 290 x 102 mm**, so it does not fit a 250 mm-square
+class. Current competition limits, actual mass, tyre deflection, weld quality,
+loaded clearance, motor screw fit, current and failsafe behaviour require physical
+checks. The requested four-floor-hole long-holder revision is still outstanding;
+the saved model has two floor bolts per holder.
 
-Rev C measures **292 x 290 x 110 mm** in CAD. It fits geometrically within a 304.8 mm square and does not fit a 250 mm square. Confirm the current event's rules independently. The native model uses fixed component placements; its interference audit is a geometric fit check, not an impact-strength or manufacturing approval.
+The V3 STL set is intended for one coupler dry fit and one successful silicone cast
+before printing the other five rims. Its supplied mould is a continuous ring with
+a printed pin; the earlier hex-wheel tool instead has two removable wall halves
+and a metal centre bolt. Their instructions and hardware are kept separate.
 
-Open an issue with dimensions, a CAD screenshot, a test result or the organiser's current rulebook. Include the revision used. Existing motor, sheet-metal, drivetrain and competition-rule validation issues remain open until the physical checks are recorded.
+Earlier [Workshop](cad/rev-d-workshop), [Rev C](cad/rev-c), [fabrication review](docs/fabrication-joint-review.md)
+and [research brief](docs/research-and-design-brief.md) remain available for comparison.
+See the separate [Pakistan robotics competition calendar](https://github.com/MuhammadIsmail0331/pakistan-robotics-competition-calendar).
 
-See the [RAC competition calendar](https://github.com/MuhammadIsmail0331/pakistan-robotics-competition-calendar) for related events.
+Next checks: [one V3 fit/casting trial](https://github.com/MuhammadIsmail0331/mclaren-6wd-sumobot/issues/18),
+[the four-floor-hole holder request](https://github.com/MuhammadIsmail0331/mclaren-6wd-sumobot/issues/19),
+[motor station](https://github.com/MuhammadIsmail0331/mclaren-6wd-sumobot/issues/5),
+[steel fabrication](https://github.com/MuhammadIsmail0331/mclaren-6wd-sumobot/issues/6),
+and [electrical measurements](https://github.com/MuhammadIsmail0331/mclaren-6wd-sumobot/issues/7).
+Report a measurement, test result or current organiser rulebook with the revision
+and part ID. CAD-only checks do not close physical validation tasks.

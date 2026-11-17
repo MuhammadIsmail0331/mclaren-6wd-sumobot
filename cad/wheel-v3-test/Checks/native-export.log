@@ -1,0 +1,56 @@
+OPENING|SHAHEER wheels sumo v hex 3.SLDPRT
+OPEN|0|0
+REBUILD|True|0
+FEATURE|Comments|CommentsFolder
+FEATURE|Favorites|FavoriteFolder
+FEATURE|History|HistoryFolder
+FEATURE|Selection Sets|SelectionSetFolder
+FEATURE|Sensors|SensorFolder
+FEATURE|Design Binder|DocsFolder
+FEATURE|Annotations|DetailCabinet
+FEATURE|Surface Bodies|SurfaceBodyFolder
+FEATURE|Solid Bodies|SolidBodyFolder
+FEATURE|Lights and Cameras|EnvFolder
+FEATURE|Markups|InkMarkupFolder
+FEATURE|Equations|EqnFolder
+FEATURE|Material <not specified>|MaterialFolder
+FEATURE|Front Plane|RefPlane
+FEATURE|Top Plane|RefPlane
+FEATURE|Right Plane|RefPlane
+FEATURE|Origin|OriginProfileFeature
+FEATURE|Plane1|RefPlane
+FEATURE|Sketch1|ProfileFeature
+FEATURE|Boss-Extrude1|Extrusion
+FEATURE|Sketch2|ProfileFeature
+FEATURE|Cut-Extrude1|ICE
+FEATURE|Sketch3|ProfileFeature
+FEATURE|Cut-Extrude2|ICE
+FEATURE|Sketch4|ProfileFeature
+FEATURE|Cut-Extrude3|ICE
+FEATURE|Sketch5|ProfileFeature
+FEATURE|Cut-Extrude4|ICE
+FEATURE|Sketch6|ProfileFeature
+FEATURE|Cut-Extrude5|ICE
+FEATURE|Sketch7|ProfileFeature
+FEATURE|Cut-Extrude6|ICE
+FEATURE|Sketch8|ProfileFeature
+FEATURE|Cut-Extrude7|ICE
+FEATURE|M2.5 Clearance Hole1|HoleWzd
+FEATURE|M2.5 Clearance Hole2|HoleWzd
+FEATURE|M2.5 Clearance Hole3|HoleWzd
+FEATURE|M2.5 Clearance Hole4|HoleWzd
+FEATURE|M2.5 Clearance Hole5|HoleWzd
+FEATURE|Ø2.5 (2.5) Diameter Hole1|HoleWzd
+FEATURE|Ø2.5 (2.5) Diameter Hole2|HoleWzd
+FEATURE|Ø2.5 (2.5) Diameter Hole3|HoleWzd
+FEATURE|Ø2.5 (2.5) Diameter Hole4|HoleWzd
+FEATURE|Ø2.5 (2.5) Diameter Hole5|HoleWzd
+FEATURE|Chamfer1|Chamfer
+FEATURE|Fillet1|Fillet
+FEATURE|Fillet2|Fillet
+BODY|-19.9774|0.0000|-20.0000|19.9774|33.0000|20.0000
+VOLUME|24214.0450
+VIEW|True
+CLOSED|SHAHEER wheels sumo v hex 3.SLDPRT
+OPENING|mold wheel base.SLDPRT
+ERROR|901|Open failed 8192

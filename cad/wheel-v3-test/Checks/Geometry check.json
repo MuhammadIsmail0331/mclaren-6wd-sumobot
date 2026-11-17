@@ -1,0 +1,102 @@
+{
+  "rim_native_rebuilt": true,
+  "native_future_version_error_on_mould_base": 8192,
+  "mould_source": "Unmodified geometry from author STL exports in supplied WhatsApp ZIP; native moulds not verified in SW2025.",
+  "native_vs_supplied_rim_STEP_difference_mm3": 1.332795,
+  "changed_rim_geometry_outside_radius_10_5_mm3": 0.0,
+  "rim_before_volume_mm3": 24214.044966,
+  "rim_after_volume_mm3": 24494.099952,
+  "rim_hex_AF_mm": 12.4,
+  "rim_hex_seat_Y_mm": [
+    12,
+    18
+  ],
+  "rim_barrel_entry_diameter_mm": 15,
+  "rim_screw_web_mm": 4.5,
+  "rim_screw_recess_mm": [
+    9.4,
+    7.5
+  ],
+  "rim_minimum_nominal_hub_wall_at_hex_corner_mm": 3.3408566620486395,
+  "rim_nominal_hub_wall_around_barrel_entry_mm": 3,
+  "boss_end_to_coupler_end_gap_saved_assembly_mm": 4,
+  "mould_nominal_cavity_diameter_mm": 57,
+  "mould_wall_height_mm": 36,
+  "target_fill_height_above_base_top_mm": 33,
+  "base_top_Z_mm": 4,
+  "base_pin_diameter_mm": 4.2,
+  "base_pin_top_Z_mm": 38,
+  "rim_top_in_mould_Z_mm": 37,
+  "physical_test_performed": false,
+  "parts": {
+    "01 Rim - print ONE.stl": {
+      "bounds_mm": [
+        [
+          -19.97723388671875,
+          -19.986072540283203,
+          0.0
+        ],
+        [
+          19.97723388671875,
+          20.0,
+          33.0
+        ]
+      ],
+      "volume_mm3": 24467.255087090492,
+      "watertight": true,
+      "winding_consistent": true,
+      "body_count": 1,
+      "triangles": 13314,
+      "sha256": "cc8268525e185a088e637537ee575b2ad4fe63c08d917eef5072a57f0bea4722"
+    },
+    "02 Mould base - print ONE.stl": {
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.5,
+          0.0
+        ],
+        [
+          37.5,
+          37.5,
+          38.0
+        ]
+      ],
+      "volume_mm3": 16586.48760003652,
+      "watertight": true,
+      "winding_consistent": true,
+      "body_count": 1,
+      "triangles": 1298,
+      "sha256": "ae95e2f1992700ebb97939f25b4dd4987af309d121a3e2d4761a9c87ce38cff5"
+    },
+    "03 Mould wall - print ONE.stl": {
+      "bounds_mm": [
+        [
+          -35.0,
+          -34.90705490112305,
+          0.0
+        ],
+        [
+          35.0,
+          34.90705490112305,
+          44.0
+        ]
+      ],
+      "volume_mm3": 42188.33500065693,
+      "watertight": true,
+      "winding_consistent": true,
+      "body_count": 1,
+      "triangles": 552,
+      "sha256": "a47d486211132af019eb51222055a75fc6a4e6313ef29f2d2893f407f7a1143d"
+    }
+  },
+  "exact_rim_to_reference_brass_adapter_overlap_mm3": 0.0,
+  "base_clip_wall_section": {
+    "check": "Base clips and wall at horizontal Z=8 mm, meshes in mould position",
+    "base_segments": 168,
+    "wall_segments": 228,
+    "crossing_segments": 0,
+    "boundary_midpoints_inside_other": 0,
+    "minimum_section_gap_mm": 0.22467422485351562
+  }
+}

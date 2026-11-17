@@ -1,0 +1,19 @@
+RAC McLaren 6WD | Club build prints
+
+P01 Shaheer long holder: PETG, one fit sample first, 6 total after approval.
+Size: 60.75 x 43.3 x 75.5 mm. Set the flat open gearbox end on the bed,
+with the bore vertical and the rear stop tabs pointing upward.
+Start at 0.20 mm layers, 4 or 5 walls, 5 top and bottom layers and
+20 to 30 percent infill in thick regions. Inspect jaw holes, floor holes,
+washer seats and the rear tabs in the slicer. Use local support where
+the preview requires it. Keep the jaw slit open. Check grip and heat with
+one actual motor and wheel before printing the rest.
+
+P02 LiPo tray: 2 PETG, 42 x 110 x 10 mm each. Print flat on the base.
+P03 Electronics tray: 1 PETG, 109 x 192 x 10 mm. Print flat on the base.
+For both trays use 3 walls and 4 or 5 top and bottom layers. Keep the
+strap slots open. All parts fit the 220 x 220 x 250 mm printer.
+
+PETG is the club build material for the loaded motor sleeves. The two
+tray designs are flat and use no purchased standoffs. Only print the
+single P01 for the first holder test order.

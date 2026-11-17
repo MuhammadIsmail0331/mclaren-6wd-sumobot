@@ -1,0 +1,186 @@
+{
+  "file": "./outputs\\McLaren-6WD-Hex-Wheels\\Print STL\\M01 Mould base.stl",
+  "mesh": {
+    "bbox_mm": [
+      89.98,
+      89.99,
+      8.0
+    ],
+    "volume_mm3": 38356.8,
+    "surface_area_mm2": 15056.1,
+    "triangle_count": 2088,
+    "watertight": true,
+    "euler_number": 0,
+    "body_count": 1
+  },
+  "scale": {
+    "bbox_diagonal_mm": 127.512,
+    "units_suspect": false,
+    "note": "bbox consistent with millimetre units"
+  },
+  "overhangs": {
+    "angle_limit_used_deg": 45.0,
+    "down_facing_area_below_limit_mm2": 53.44,
+    "down_facing_area_below_limit_pct": 0.4,
+    "face_count_below_limit": 158,
+    "down_facing_angle_histogram_mm2": {
+      "0-10deg": 53.44
+    },
+    "largest_faces_below_limit": [
+      {
+        "location_xyz": [
+          -3.28,
+          2.08,
+          4.2
+        ],
+        "surface_angle_deg": 0.0,
+        "area_mm2": 0.46
+      },
+      {
+        "location_xyz": [
+          -3.31,
+          -2.03,
+          4.2
+        ],
+        "surface_angle_deg": 0.0,
+        "area_mm2": 0.46
+      },
+      {
+        "location_xyz": [
+          1.82,
+          3.42,
+          4.2
+        ],
+        "surface_angle_deg": 0.0,
+        "area_mm2": 0.46
+      },
+      {
+        "location_xyz": [
+          1.88,
+          -3.4,
+          4.2
+        ],
+        "surface_angle_deg": 0.0,
+        "area_mm2": 0.46
+      },
+      {
+        "location_xyz": [
+          2.39,
+          3.06,
+          4.2
+        ],
+        "surface_angle_deg": 0.0,
+        "area_mm2": 0.46
+      },
+      {
+        "location_xyz": [
+          2.39,
+          -3.06,
+          4.2
+        ],
+        "surface_angle_deg": 0.0,
+        "area_mm2": 0.46
+      },
+      {
+        "location_xyz": [
+          -1.96,
+          -3.35,
+          4.2
+        ],
+        "surface_angle_deg": 0.0,
+        "area_mm2": 0.46
+      },
+      {
+        "location_xyz": [
+          3.53,
+          1.62,
+          4.2
+        ],
+        "surface_angle_deg": 0.0,
+        "area_mm2": 0.46
+      }
+    ]
+  },
+  "wall_thickness": {
+    "samples_valid": 2000,
+    "min_mm": 1.986,
+    "p05_mm": 6.0,
+    "p25_mm": 6.0,
+    "median_mm": 6.0,
+    "max_mm": 42.744,
+    "thinnest_samples": [
+      {
+        "location_xyz": [
+          32.24,
+          12.8,
+          6.8
+        ],
+        "thickness_mm": 1.986
+      },
+      {
+        "location_xyz": [
+          -32.24,
+          12.8,
+          6.4
+        ],
+        "thickness_mm": 1.986
+      },
+      {
+        "location_xyz": [
+          19.93,
+          -28.39,
+          6.8
+        ],
+        "thickness_mm": 1.987
+      },
+      {
+        "location_xyz": [
+          -19.93,
+          -28.39,
+          6.8
+        ],
+        "thickness_mm": 1.987
+      },
+      {
+        "location_xyz": [
+          16.25,
+          -30.64,
+          6.8
+        ],
+        "thickness_mm": 1.988
+      },
+      {
+        "location_xyz": [
+          -32.97,
+          -10.77,
+          6.8
+        ],
+        "thickness_mm": 1.988
+      },
+      {
+        "location_xyz": [
+          30.4,
+          16.7,
+          6.4
+        ],
+        "thickness_mm": 1.989
+      },
+      {
+        "location_xyz": [
+          -33.58,
+          -8.69,
+          6.8
+        ],
+        "thickness_mm": 1.99
+      }
+    ]
+  },
+  "support_volume": {
+    "angle_limit_used_deg": 45.0,
+    "estimated_support_volume_mm3": 224.4,
+    "part_volume_mm3": 38356.8,
+    "support_to_part_ratio_pct": 0.6,
+    "method": "prism from face centroid to build plate; coarse upper-bound estimate"
+  },
+  "partial": false
+}

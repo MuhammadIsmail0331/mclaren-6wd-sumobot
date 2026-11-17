@@ -1,0 +1,49 @@
+SHAHEER V3 WHEEL TEST - PRINT ONE OF EACH - 17 NOVEMBER 2026
+
+01 Rim - print ONE.stl          1
+02 Mould base - print ONE.stl   1
+03 Mould wall - print ONE.stl   1
+
+Units: millimetres. Scale: 100%. Keep the supplied upright orientations.
+Expected heights: rim 33 mm; base including pin 38 mm; wall including tabs 44 mm.
+All fit the team's 220 x 220 x 250 mm bed.
+
+PETG, 0.20 mm layers, normal calibrated profile for the actual filament/printer.
+Rim: 6 walls, 6 top/bottom layers, 100% infill. Use removable build-plate-only
+support for the bottom screw recess/overhangs; keep support out of the upper hex
+and barrel socket. Remove all support before trying the coupler.
+Base and mould wall: 4 walls, 5 top/bottom layers, 15-20% infill, no supports.
+The thin centre pin should print as solid perimeters. Keep its existing fillet.
+Use a 3-5 mm brim if needed for adhesion; do not change the scale to adjust fit.
+
+FIRST DRY TEST - BEFORE MIXING SILICONE
+1. Check the real brass adapter slides into the rim, the supplied grub screws
+   clear the 15 mm entry, and the wheel can slide off again. Fit the adapter to
+   the motor first, with a grub bearing on the shaft flat; then slide on the rim.
+2. The outside screw recess faces DOWN on the mould base. Motor/hex side faces UP.
+   Slide the rim over the 4.2 mm printed pin gently. Its clearance hole is 4.5 mm.
+   Lightly clean the hole if necessary; do not force the pin or bend it sideways.
+3. Fit the wall around the rim and onto the base. Check it sits flat and remains
+   concentric. Temporarily secure it to the base with tape around the outside.
+4. Mark a fill line 33 mm above the base TOP, aligned with the rim's top face.
+   The main mould wall is 36 mm tall: DO NOT fill to its top or the 8 mm tabs.
+5. Mask the central hub recesses with clean tape, sealing around the pin, to keep
+   silicone out of the screw/hex/barrel seats. Leave the outer tyre-grip slots open.
+   Seal the OUTSIDE wall/base joint. Use a silicone-compatible release on mould
+   surfaces only, not on the rim's tyre-grip features. Mix/cure as the material
+   manufacturer specifies.
+6. After full cure, lift the wall vertically off the base, then gently push the
+   soft tyre out axially. This supplied wall is ONE continuous ring, not two
+   separable halves. Do not lever against the slender pin or force the notches.
+   Lift the wheel straight off the pin. If demoulding is difficult, stop before
+   bending/breaking the pin and improve the tool before making the next five.
+
+WHEEL RETAINING HARDWARE
+The revised hub has a 4.5 mm plastic retaining web. The previously specified
+M4 x 10 screw with a measured 1 mm washer gives nominal 4.5 mm engagement into
+the reference coupler. Check the actual screw seats without bottoming against
+the shaft; do not force it. The newly supplied chat mentions an M4 x 8 screw,
+but its actual inclusion/head/depth have not been verified here.
+
+ONLY AFTER THE DRY FIT AND ONE SUCCESSFUL CAST: approve the remaining five rims.
+These are trial parts, not a claim of physical load/impact validation.

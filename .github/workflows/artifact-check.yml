@@ -1,0 +1,18 @@
+name: CAD handoff checks
+
+on:
+  push:
+    paths: ['cad/**', 'docs/**', 'README.md', 'scripts/check_artifacts.py', '.github/workflows/artifact-check.yml']
+  pull_request:
+    paths: ['cad/**', 'docs/**', 'README.md', 'scripts/check_artifacts.py', '.github/workflows/artifact-check.yml']
+
+permissions:
+  contents: read
+
+jobs:
+  artifacts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Check hashes, native counts, STL closure and handoff links
+        run: python3 scripts/check_artifacts.py

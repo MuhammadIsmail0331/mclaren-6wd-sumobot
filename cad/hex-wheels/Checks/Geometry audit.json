@@ -1,0 +1,153 @@
+{
+  "original_native_step_difference_mm3": 17.480585,
+  "outside_radius_11_5_changes_mm3": 0.0,
+  "original_rim_volume_mm3": 21832.580687,
+  "revised_rim_volume_mm3": 26196.530327,
+  "rim_bounds_mm": [
+    -19.97735,
+    -0.0,
+    -20.0,
+    19.97735,
+    33.0,
+    20.0
+  ],
+  "hex_across_flats_mm": 12.4,
+  "hex_opening_y_mm": [
+    12,
+    18
+  ],
+  "actual_metal_hex_y_mm": [
+    12,
+    18
+  ],
+  "hub_min_radial_wall_at_hex_corner_mm": 4.3408566620486395,
+  "wheel_retaining_web_mm": 4,
+  "barrel_entry_bore_mm": 15,
+  "barrel_entry_bore_length_mm": 15,
+  "hub_wall_around_entry_mm": 4,
+  "m4x10_engagement_with_1mm_washer_mm": 5,
+  "coupler_barrel_y_mm": [
+    18,
+    30
+  ],
+  "shaft_engagement_mm_CAD": 11.5,
+  "shaft_engagement_mm_supplier": 10.5,
+  "boss_to_coupler_end_axial_clearance_mm": 4,
+  "tyre_silicone_cavity_ml": 53.795370995999996,
+  "uncast_closed_air_voids_mm3": [
+    147.654855
+  ],
+  "mould_candidate_interference_checks": 5,
+  "mould_unexpected_overlaps": [],
+  "assembly_component_count": 120,
+  "assembly_changed_candidate_checks": 86,
+  "assembly_expected_unmodelled_thread_overlaps_mm3": [
+    [
+      "REF Brass hex coupler 6mm",
+      "REF M4x10 wheel screw and washer",
+      17.435839
+    ],
+    [
+      "REF Brass hex coupler 6mm",
+      "REF M4x10 wheel screw and washer",
+      17.435839
+    ],
+    [
+      "REF Brass hex coupler 6mm",
+      "REF M4x10 wheel screw and washer",
+      17.435839
+    ],
+    [
+      "REF Brass hex coupler 6mm",
+      "REF M4x10 wheel screw and washer",
+      17.435839
+    ],
+    [
+      "REF Brass hex coupler 6mm",
+      "REF M4x10 wheel screw and washer",
+      17.435839
+    ],
+    [
+      "REF Brass hex coupler 6mm",
+      "REF M4x10 wheel screw and washer",
+      17.435839
+    ]
+  ],
+  "assembly_unexpected_overlaps": [],
+  "assembly_bounds_mm": [
+    -142.0,
+    0.0,
+    -145.0,
+    152.0,
+    102.0,
+    145.0
+  ],
+  "print_parts": {
+    "P04 Shaheer rim - recessed hex": {
+      "bounds_mm": [
+        -19.97735,
+        -20.0,
+        -0.0,
+        19.97735,
+        20.0,
+        33.0
+      ],
+      "volume_mm3": 26196.530327
+    },
+    "T02 Hex hub fit test": {
+      "bounds_mm": [
+        -11.5,
+        -11.5,
+        0.0,
+        11.5,
+        11.5,
+        18.0
+      ],
+      "volume_mm3": 6060.80141
+    },
+    "M01 Mould base": {
+      "bounds_mm": [
+        -45.0,
+        -45.0,
+        0.0,
+        45.0,
+        45.0,
+        8.0
+      ],
+      "volume_mm3": 38376.321252
+    },
+    "M02 Mould wall A": {
+      "bounds_mm": [
+        -44.0,
+        -0.0,
+        0.0,
+        44.0,
+        32.5,
+        33.0
+      ],
+      "volume_mm3": 17855.305484
+    },
+    "M03 Mould wall B": {
+      "bounds_mm": [
+        -44.0,
+        -32.5,
+        0.0,
+        44.0,
+        0.0,
+        33.0
+      ],
+      "volume_mm3": 17855.305484
+    },
+    "M04 Hub sealing cap": {
+      "bounds_mm": [
+        -12.0,
+        -12.0,
+        0.0,
+        12.0,
+        12.0,
+        3.0
+      ],
+      "volume_mm3": 1309.455088
+    }
+  }
+}

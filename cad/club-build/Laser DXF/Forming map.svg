@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1130 850" width="1130" height="850">
+<rect width="1130" height="850" fill="#f1f5fa"/>
+<g font-family="Arial,sans-serif">
+<text x="34" y="47" text-anchor="start" font-size="31" font-weight="700" fill="#172941">McLaren club build  |  Forming map</text>
+<text x="34" y="76" text-anchor="start" font-size="15" font-weight="400" fill="#172941">1.0 mm stock, 1.5 mm inside radius, K = 0.40. Prove the shop bend before the full cut.</text>
+<text x="35" y="111" text-anchor="start" font-size="13" font-weight="700" fill="#145ca0">FORMED SECTION</text>
+<text x="506" y="111" text-anchor="start" font-size="13" font-weight="700" fill="#145ca0">FLAT DEPTH AND BEND CENTRES FROM DATUM</text>
+<rect x="24" y="125" width="1082" height="127" rx="9" fill="white" stroke="#c8d6e5"/>
+<text x="42" y="152" text-anchor="start" font-size="18" font-weight="700" fill="#172941">C02  Motor rail</text>
+<text x="42" y="173" text-anchor="start" font-size="13" font-weight="400" fill="#172941">90° foot inboard</text>
+<path d="M 238.000 232.000 L 258.916 232.000 Q 261.647 231.744 261.904 229.012 L 261.904 170.000" fill="none" stroke="#172941" stroke-width="3.5"/>
+<circle cx="238.0" cy="232.0" r="5" fill="#a44914"/>
+<text x="523" y="153" text-anchor="start" font-size="15" font-weight="600" fill="#172941">Start at the foot free edge</text>
+<rect x="523" y="198" width="547" height="13" rx="2" fill="#c2d8ef"/>
+<text x="523" y="235" text-anchor="start" font-size="13" font-weight="600" fill="#a44914">0</text>
+<text x="1070" y="235" text-anchor="end" font-size="13" font-weight="600" fill="#172941">56.485 mm</text>
+<path d="M 673.03 190 V 218" stroke="#a44914" stroke-width="2"/>
+<text x="673.03" y="184" text-anchor="middle" font-size="13" font-weight="600" fill="#a44914">15.492</text>
+<rect x="24" y="262" width="1082" height="127" rx="9" fill="white" stroke="#c8d6e5"/>
+<text x="42" y="289" text-anchor="start" font-size="18" font-weight="700" fill="#172941">C05  Wheel guard</text>
+<text x="42" y="310" text-anchor="start" font-size="13" font-weight="400" fill="#172941">90° lip inboard, mirror L/R</text>
+<path d="M 252.091 369.000 L 252.091 309.255 Q 251.897 307.193 249.836 307.000 L 238.000 307.000" fill="none" stroke="#172941" stroke-width="3.5"/>
+<circle cx="252.0909090909091" cy="369.0" r="5" fill="#a44914"/>
+<text x="523" y="290" text-anchor="start" font-size="15" font-weight="600" fill="#172941">Start at the lower wall edge</text>
+<rect x="523" y="335" width="547" height="13" rx="2" fill="#c2d8ef"/>
+<text x="523" y="372" text-anchor="start" font-size="13" font-weight="600" fill="#a44914">0</text>
+<text x="1070" y="372" text-anchor="end" font-size="13" font-weight="600" fill="#172941">66.485 mm</text>
+<path d="M 971.33 327 V 355" stroke="#a44914" stroke-width="2"/>
+<text x="971.33" y="321" text-anchor="middle" font-size="13" font-weight="600" fill="#a44914">54.492</text>
+<rect x="24" y="399" width="1082" height="127" rx="9" fill="white" stroke="#c8d6e5"/>
+<text x="42" y="426" text-anchor="start" font-size="18" font-weight="700" fill="#172941">C06  Rear wall</text>
+<text x="42" y="447" text-anchor="start" font-size="13" font-weight="400" fill="#172941">90° lip inboard</text>
+<path d="M 238.000 506.000 L 238.000 446.696 Q 238.231 444.231 240.696 444.000 L 255.522 444.000" fill="none" stroke="#172941" stroke-width="3.5"/>
+<circle cx="238.0" cy="506.0" r="5" fill="#a44914"/>
+<text x="523" y="427" text-anchor="start" font-size="15" font-weight="600" fill="#172941">Start at the lower wall edge</text>
+<rect x="523" y="472" width="547" height="13" rx="2" fill="#c2d8ef"/>
+<text x="523" y="509" text-anchor="start" font-size="13" font-weight="600" fill="#a44914">0</text>
+<text x="1070" y="509" text-anchor="end" font-size="13" font-weight="600" fill="#172941">57.985 mm</text>
+<path d="M 952.15 464 V 492" stroke="#a44914" stroke-width="2"/>
+<text x="952.15" y="458" text-anchor="middle" font-size="13" font-weight="600" fill="#a44914">45.492</text>
+<rect x="24" y="536" width="1082" height="127" rx="9" fill="white" stroke="#c8d6e5"/>
+<text x="42" y="563" text-anchor="start" font-size="18" font-weight="700" fill="#172941">C07  Scoop</text>
+<text x="42" y="584" text-anchor="start" font-size="13" font-weight="400" fill="#172941">18° up, 42° up, 60° back to flat</text>
+<path d="M 308.299 643.000 L 298.184 643.000 Q 297.980 643.000 297.785 642.937 L 282.972 638.124 Q 282.505 637.966 282.253 637.542 L 249.981 581.645 Q 249.596 581.023 248.864 581.000 L 238.000 581.000" fill="none" stroke="#172941" stroke-width="3.5"/>
+<circle cx="308.29868648328534" cy="643.0" r="5" fill="#a44914"/>
+<text x="523" y="564" text-anchor="start" font-size="15" font-weight="600" fill="#172941">Start at the forward toe</text>
+<rect x="523" y="609" width="547" height="13" rx="2" fill="#c2d8ef"/>
+<text x="523" y="646" text-anchor="start" font-size="13" font-weight="600" fill="#a44914">0</text>
+<text x="1070" y="646" text-anchor="end" font-size="13" font-weight="600" fill="#172941">160.736 mm</text>
+<path d="M 577.39 601 V 629" stroke="#a44914" stroke-width="2"/>
+<text x="577.39" y="595" text-anchor="middle" font-size="13" font-weight="600" fill="#a44914">15.982</text>
+<path d="M 662.96 601 V 629" stroke="#a44914" stroke-width="2"/>
+<text x="662.96" y="595" text-anchor="middle" font-size="13" font-weight="600" fill="#a44914">41.127</text>
+<path d="M 1009.29 601 V 629" stroke="#a44914" stroke-width="2"/>
+<text x="1009.29" y="595" text-anchor="middle" font-size="13" font-weight="600" fill="#a44914">142.896</text>
+<rect x="24" y="673" width="1082" height="127" rx="9" fill="white" stroke="#c8d6e5"/>
+<text x="42" y="700" text-anchor="start" font-size="18" font-weight="700" fill="#172941">C10  Electronics bridge</text>
+<text x="42" y="721" text-anchor="start" font-size="13" font-weight="400" fill="#172941">Two 90° bends, both ends down</text>
+<path d="M 238.000 780.000 L 238.000 720.787 Q 238.239 718.239 240.787 718.000 L 355.034 718.000 Q 357.581 718.239 357.820 720.787 L 357.820 780.000" fill="none" stroke="#172941" stroke-width="3.5"/>
+<circle cx="238.0" cy="780.0" r="5" fill="#a44914"/>
+<text x="523" y="701" text-anchor="start" font-size="15" font-weight="600" fill="#172941">Start at either notched end</text>
+<rect x="523" y="746" width="547" height="13" rx="2" fill="#c2d8ef"/>
+<text x="523" y="783" text-anchor="start" font-size="13" font-weight="600" fill="#a44914">0</text>
+<text x="1070" y="783" text-anchor="end" font-size="13" font-weight="600" fill="#172941">172.969 mm</text>
+<path d="M 662.12 738 V 766" stroke="#a44914" stroke-width="2"/>
+<text x="662.12" y="732" text-anchor="middle" font-size="13" font-weight="600" fill="#a44914">43.992</text>
+<path d="M 930.88 738 V 766" stroke="#a44914" stroke-width="2"/>
+<text x="930.88" y="732" text-anchor="middle" font-size="13" font-weight="600" fill="#a44914">128.977</text>
+<text x="35" y="832" text-anchor="start" font-size="14" font-weight="400" fill="#172941">Orange point = flat datum. Bend centre lines belong on the forming setup, outside the laser cut layer.</text>
+</g></svg>

@@ -1,0 +1,32 @@
+{
+  "components": 108,
+  "exact_candidate_checks": 259,
+  "known_reference_overlaps": {
+    "Wheel reference pair": 12,
+    "Unthreaded gearbox reference": 18
+  },
+  "unexpected_overlaps": [],
+  "original_holder_volume_mm3": 55719.211443,
+  "long_holder_bounds_mm": [
+    -29.5,
+    -21.5,
+    -3.0,
+    31.25,
+    21.8,
+    72.5
+  ],
+  "long_holder_volume_mm3": 44737.289162,
+  "nominal_stock_mm": 1.0,
+  "inside_bend_radius_mm": 1.5,
+  "k_factor": 0.4,
+  "bounds_mm": [
+    -142.0,
+    0.0,
+    -145.0,
+    152.0,
+    102.0,
+    145.0
+  ],
+  "native_holder_export_symmetric_difference_mm3": 0.0,
+  "native_holder_file": "P01 Shaheer long holder.SLDPRT"
+}
