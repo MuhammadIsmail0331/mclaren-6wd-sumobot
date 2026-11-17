@@ -1,0 +1,113 @@
+{
+  "file": "./outputs\\McLaren-Wheels-V3-Test\\Print STL\\02 Mould base - print ONE.stl",
+  "mesh": {
+    "bbox_mm": [
+      75.0,
+      75.0,
+      38.0
+    ],
+    "volume_mm3": 16586.5,
+    "surface_area_mm2": 9741.9,
+    "triangle_count": 1298,
+    "watertight": true,
+    "euler_number": 2,
+    "body_count": 1
+  },
+  "scale": {
+    "bbox_diagonal_mm": 112.6677,
+    "units_suspect": false,
+    "note": "bbox consistent with millimetre units"
+  },
+  "overhangs": {
+    "angle_limit_used_deg": 45.0,
+    "down_facing_area_below_limit_mm2": 0.0,
+    "down_facing_area_below_limit_pct": 0.0,
+    "face_count_below_limit": 0,
+    "down_facing_angle_histogram_mm2": {
+      "80-90deg": 0.4
+    },
+    "largest_faces_below_limit": []
+  },
+  "wall_thickness": {
+    "samples_valid": 1298,
+    "min_mm": 2.207,
+    "p05_mm": 4.0,
+    "p25_mm": 4.0,
+    "median_mm": 4.0,
+    "max_mm": 74.893,
+    "thinnest_samples": [
+      {
+        "location_xyz": [
+          37.43,
+          -1.33,
+          6.67
+        ],
+        "thickness_mm": 2.207
+      },
+      {
+        "location_xyz": [
+          37.43,
+          -1.33,
+          6.67
+        ],
+        "thickness_mm": 2.207
+      },
+      {
+        "location_xyz": [
+          1.33,
+          37.43,
+          6.67
+        ],
+        "thickness_mm": 2.207
+      },
+      {
+        "location_xyz": [
+          1.33,
+          37.43,
+          6.67
+        ],
+        "thickness_mm": 2.207
+      },
+      {
+        "location_xyz": [
+          -37.43,
+          1.33,
+          6.67
+        ],
+        "thickness_mm": 2.207
+      },
+      {
+        "location_xyz": [
+          -1.33,
+          -37.43,
+          6.67
+        ],
+        "thickness_mm": 2.207
+      },
+      {
+        "location_xyz": [
+          -1.33,
+          -37.43,
+          6.67
+        ],
+        "thickness_mm": 2.207
+      },
+      {
+        "location_xyz": [
+          2.22,
+          35.16,
+          8.0
+        ],
+        "thickness_mm": 2.221
+      }
+    ]
+  },
+  "support_volume": {
+    "angle_limit_used_deg": 45.0,
+    "estimated_support_volume_mm3": 0.0,
+    "part_volume_mm3": 16586.5,
+    "support_to_part_ratio_pct": 0.0,
+    "method": "prism from face centroid to build plate; coarse upper-bound estimate"
+  },
+  "partial": false
+}

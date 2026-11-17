@@ -1,0 +1,51 @@
+{
+  "file": "./outputs\\McLaren-Wheels-V3-Test\\Print STL\\03 Mould wall - print ONE.stl",
+  "scale": {
+    "bbox_diagonal_mm": 108.2128,
+    "units_suspect": false,
+    "note": "bbox consistent with millimetre units"
+  },
+  "orientations": {
+    "angle_limit_used_deg": 45.0,
+    "pct_denominator": "total surface area",
+    "candidates": [
+      {
+        "orientation": "current_plus_z",
+        "support_area_mm2": 0.0,
+        "support_area_pct": 0.0,
+        "build_height_mm": 44.0
+      },
+      {
+        "orientation": "flip_180_x",
+        "support_area_mm2": 982.96,
+        "support_area_pct": 5.6,
+        "build_height_mm": 44.0
+      },
+      {
+        "orientation": "rot_plus_90_x",
+        "support_area_mm2": 3630.34,
+        "support_area_pct": 20.5,
+        "build_height_mm": 69.81
+      },
+      {
+        "orientation": "rot_minus_90_x",
+        "support_area_mm2": 3630.34,
+        "support_area_pct": 20.5,
+        "build_height_mm": 69.81
+      },
+      {
+        "orientation": "rot_plus_90_y",
+        "support_area_mm2": 3926.14,
+        "support_area_pct": 22.2,
+        "build_height_mm": 70.0
+      },
+      {
+        "orientation": "rot_minus_90_y",
+        "support_area_mm2": 3926.14,
+        "support_area_pct": 22.2,
+        "build_height_mm": 70.0
+      }
+    ]
+  },
+  "partial": false
+}

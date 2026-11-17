@@ -1,0 +1,8 @@
+{
+  "check": "Base clips and wall at horizontal Z=8 mm, meshes in mould position",
+  "base_segments": 168,
+  "wall_segments": 228,
+  "crossing_segments": 0,
+  "boundary_midpoints_inside_other": 0,
+  "minimum_section_gap_mm": 0.22467422485351562
+}
