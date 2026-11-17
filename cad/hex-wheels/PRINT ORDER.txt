@@ -1,0 +1,41 @@
+McLaren 6WD - HEX WHEEL PRINT ORDER - 15 November 2026
+
+STL units are MILLIMETRES. Import at 100% scale. The supplied STLs already
+have their intended flat printing faces at Z=0; keep the wheel axis vertical.
+
+Print T02 first and hand-fit the real brass coupler. Then print ONE P04 and
+one complete mould set. Fit the rim on a real motor in the chassis and do
+one complete silicone casting before printing the remaining FIVE P04 rims.
+Do not hammer or press-fit a tight socket. Correct the socket/printer fit
+before making the batch; do not scale the whole rim to adjust the hex hole.
+
+FILE                                      QUANTITY
+T02 Hex hub fit test.stl                   1
+P04 Shaheer rim - recessed hex.stl         6 total: 1 trial, then 5
+M01 Mould base.stl                         1
+M02 Mould wall A.stl                       1
+M03 Mould wall B.stl                       1
+M04 Hub sealing cap.stl                    1
+
+One mould set is reusable for all six tyres, one tyre per cure cycle.
+
+MATERIAL / SETTINGS
+Use PETG for the rims. Suggested starting settings for a 0.4 mm nozzle:
+0.20 mm layers, 6 perimeter walls, 6 top and bottom layers, 100% infill.
+The torque-bearing hub is deliberately solid. Original outer silicone-key
+features are retained, including some locally thin filleted regions.
+
+For moulds use PETG, 0.20 mm layers, 4 walls, 5 top/bottom layers, 20% infill.
+Use the filament maker's temperature and cooling settings. Enable bridging.
+The small horizontal holes and the 9.4 mm access recess have bridge roofs;
+the slicer operator must inspect them. Keep support material out of the hex
+socket and mould cavity. No printer-specific G-code is supplied.
+
+T02 tests the hex socket, M4 clearance and retaining-screw seat, not the
+complete axle stack. The first P04 is the complete motor/barrel/grub check.
+Target P04 socket: 12.4 mm across flats for the supplier's nominal 12 mm hex.
+P04 motor-side entry is 15 mm diameter for the barrel and short grub ends.
+Use short M4x4 grub screws in the adapter's radial mounting holes; longer
+protruding screws can catch the entry bore. Check the supplied screws first.
+
+Do not print the silicone tyre, brass coupler or metal fastener references.

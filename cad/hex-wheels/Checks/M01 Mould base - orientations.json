@@ -1,0 +1,51 @@
+{
+  "file": "./outputs\\McLaren-6WD-Hex-Wheels\\Print STL\\M01 Mould base.stl",
+  "scale": {
+    "bbox_diagonal_mm": 127.512,
+    "units_suspect": false,
+    "note": "bbox consistent with millimetre units"
+  },
+  "orientations": {
+    "angle_limit_used_deg": 45.0,
+    "pct_denominator": "total surface area",
+    "candidates": [
+      {
+        "orientation": "current_plus_z",
+        "support_area_mm2": 53.44,
+        "support_area_pct": 0.4,
+        "build_height_mm": 8.0
+      },
+      {
+        "orientation": "flip_180_x",
+        "support_area_mm2": 6294.9,
+        "support_area_pct": 41.8,
+        "build_height_mm": 8.0
+      },
+      {
+        "orientation": "rot_plus_90_x",
+        "support_area_mm2": 575.13,
+        "support_area_pct": 3.8,
+        "build_height_mm": 89.99
+      },
+      {
+        "orientation": "rot_minus_90_x",
+        "support_area_mm2": 575.13,
+        "support_area_pct": 3.8,
+        "build_height_mm": 89.99
+      },
+      {
+        "orientation": "rot_plus_90_y",
+        "support_area_mm2": 534.51,
+        "support_area_pct": 3.6,
+        "build_height_mm": 89.98
+      },
+      {
+        "orientation": "rot_minus_90_y",
+        "support_area_mm2": 536.04,
+        "support_area_pct": 3.6,
+        "build_height_mm": 89.98
+      }
+    ]
+  },
+  "partial": false
+}

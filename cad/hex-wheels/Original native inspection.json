@@ -1,0 +1,174 @@
+{
+  "features": [
+    [
+      "Comments",
+      "CommentsFolder"
+    ],
+    [
+      "Favorites",
+      "FavoriteFolder"
+    ],
+    [
+      "History",
+      "HistoryFolder"
+    ],
+    [
+      "Selection Sets",
+      "SelectionSetFolder"
+    ],
+    [
+      "Sensors",
+      "SensorFolder"
+    ],
+    [
+      "Design Binder",
+      "DocsFolder"
+    ],
+    [
+      "Annotations",
+      "DetailCabinet"
+    ],
+    [
+      "Surface Bodies",
+      "SurfaceBodyFolder"
+    ],
+    [
+      "Solid Bodies",
+      "SolidBodyFolder"
+    ],
+    [
+      "Lights and Cameras",
+      "EnvFolder"
+    ],
+    [
+      "Markups",
+      "InkMarkupFolder"
+    ],
+    [
+      "Equations",
+      "EqnFolder"
+    ],
+    [
+      "Material <not specified>",
+      "MaterialFolder"
+    ],
+    [
+      "Front Plane",
+      "RefPlane"
+    ],
+    [
+      "Top Plane",
+      "RefPlane"
+    ],
+    [
+      "Right Plane",
+      "RefPlane"
+    ],
+    [
+      "Origin",
+      "OriginProfileFeature"
+    ],
+    [
+      "Plane1",
+      "RefPlane"
+    ],
+    [
+      "Sketch1",
+      "ProfileFeature"
+    ],
+    [
+      "Boss-Extrude1",
+      "Extrusion"
+    ],
+    [
+      "CBORE for M10 Hex Head Bolt1",
+      "HoleWzd"
+    ],
+    [
+      "Sketch4",
+      "ProfileFeature"
+    ],
+    [
+      "Cut-Extrude1",
+      "ICE"
+    ],
+    [
+      "Sketch5",
+      "ProfileFeature"
+    ],
+    [
+      "Cut-Extrude2",
+      "ICE"
+    ],
+    [
+      "Sketch6",
+      "ProfileFeature"
+    ],
+    [
+      "Cut-Extrude3",
+      "ICE"
+    ],
+    [
+      "Sketch7",
+      "ProfileFeature"
+    ],
+    [
+      "Cut-Extrude4",
+      "ICE"
+    ],
+    [
+      "Sketch8",
+      "ProfileFeature"
+    ],
+    [
+      "Cut-Extrude5",
+      "ICE"
+    ],
+    [
+      "M2.5 Clearance Hole1",
+      "HoleWzd"
+    ],
+    [
+      "M2.5 Clearance Hole2",
+      "HoleWzd"
+    ],
+    [
+      "M2.5 Clearance Hole3",
+      "HoleWzd"
+    ],
+    [
+      "M2.5 Clearance Hole4",
+      "HoleWzd"
+    ],
+    [
+      "M2.5 Clearance Hole5",
+      "HoleWzd"
+    ],
+    [
+      "\u00d82.5 (2.5) Diameter Hole1",
+      "HoleWzd"
+    ],
+    [
+      "\u00d82.5 (2.5) Diameter Hole2",
+      "HoleWzd"
+    ],
+    [
+      "\u00d82.5 (2.5) Diameter Hole3",
+      "HoleWzd"
+    ],
+    [
+      "\u00d82.5 (2.5) Diameter Hole4",
+      "HoleWzd"
+    ],
+    [
+      "\u00d82.5 (2.5) Diameter Hole5",
+      "HoleWzd"
+    ],
+    [
+      "Fillet1",
+      "Fillet"
+    ]
+  ],
+  "open_errors": 0,
+  "warnings": 0
+}

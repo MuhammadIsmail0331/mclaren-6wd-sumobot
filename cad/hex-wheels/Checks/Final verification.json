@@ -1,0 +1,168 @@
+{
+  "native_to_step_rim_difference_mm3": 0.0,
+  "barrel_short_grub_envelope_overlap_mm3": 0.0,
+  "short_grub_envelope_diameter_mm": 14.2,
+  "minimum_nominal_radial_entry_gap_mm": 0.4,
+  "preserved_club_parts_count": 23,
+  "preserved_club_parts": [
+    "24 Clamp backing strip.SLDPRT",
+    "29 REF M3x5 face screw and washer.SLDPRT",
+    "31 REF M4 locknut and washer.SLDPRT",
+    "33 REF M4x20 low-head floor bolt.SLDPRT",
+    "35 REF M4 narrow washer and locknut.SLDPRT",
+    "C01 Base.SLDPRT",
+    "C02 Folded motor rail L.SLDPRT",
+    "C02 Folded motor rail R.SLDPRT",
+    "C04 Gearbox doubler.SLDPRT",
+    "C05 Folded wheel guard L.SLDPRT",
+    "C05 Folded wheel guard R.SLDPRT",
+    "C06 Folded rear wall.SLDPRT",
+    "C07 Formed scoop.SLDPRT",
+    "C08 Scoop support web.SLDPRT",
+    "C09 Floor spine.SLDPRT",
+    "C10 Electronics bridge.SLDPRT",
+    "P01 Shaheer long holder.SLDPRT",
+    "P02 LiPo tray.SLDPRT",
+    "P03 Electronics tray.SLDPRT",
+    "REF ESP32 plus buck space.SLDPRT",
+    "REF Team IBT-2.SLDPRT",
+    "REF Team JGB37 motor.SLDPRT",
+    "REF ZOP 3S fit allowance.SLDPRT"
+  ],
+  "referenced_parts_resaved_by_SolidWorks": [
+    "24 Clamp backing strip.SLDPRT",
+    "29 REF M3x5 face screw and washer.SLDPRT",
+    "31 REF M4 locknut and washer.SLDPRT",
+    "33 REF M4x20 low-head floor bolt.SLDPRT",
+    "35 REF M4 narrow washer and locknut.SLDPRT",
+    "C01 Base.SLDPRT",
+    "C02 Folded motor rail L.SLDPRT",
+    "C02 Folded motor rail R.SLDPRT",
+    "C04 Gearbox doubler.SLDPRT",
+    "C05 Folded wheel guard L.SLDPRT",
+    "C05 Folded wheel guard R.SLDPRT",
+    "C06 Folded rear wall.SLDPRT",
+    "C07 Formed scoop.SLDPRT",
+    "C08 Scoop support web.SLDPRT",
+    "C09 Floor spine.SLDPRT",
+    "C10 Electronics bridge.SLDPRT",
+    "P01 Shaheer long holder.SLDPRT",
+    "P02 LiPo tray.SLDPRT",
+    "P03 Electronics tray.SLDPRT",
+    "REF ESP32 plus buck space.SLDPRT",
+    "REF Team IBT-2.SLDPRT",
+    "REF Team JGB37 motor.SLDPRT",
+    "REF ZOP 3S fit allowance.SLDPRT"
+  ],
+  "native_saved_assemblies": {
+    "robot": 120,
+    "wheel": 4,
+    "mould": 11
+  },
+  "native_reference_parts_in_robot": 27,
+  "external_native_part_dependencies": 0,
+  "native_known_thread_reference_pairs": 24,
+  "native_small_original_edge_contacts": [
+    [
+      0.001617,
+      "P01 Shaheer long holder-1",
+      "35 REF M4 narrow washer and locknut-1"
+    ],
+    [
+      0.001617,
+      "P01 Shaheer long holder-5",
+      "35 REF M4 narrow washer and locknut-5"
+    ],
+    [
+      0.001617,
+      "P01 Shaheer long holder-4",
+      "35 REF M4 narrow washer and locknut-4"
+    ],
+    [
+      0.001617,
+      "P01 Shaheer long holder-2",
+      "35 REF M4 narrow washer and locknut-2"
+    ],
+    [
+      0.001617,
+      "P01 Shaheer long holder-3",
+      "35 REF M4 narrow washer and locknut-3"
+    ],
+    [
+      0.001617,
+      "P01 Shaheer long holder-6",
+      "35 REF M4 narrow washer and locknut-6"
+    ],
+    [
+      2e-06,
+      "P01 Shaheer long holder-4",
+      "33 REF M4x20 low-head floor bolt-12"
+    ],
+    [
+      2e-06,
+      "P01 Shaheer long holder-5",
+      "33 REF M4x20 low-head floor bolt-15"
+    ],
+    [
+      2e-06,
+      "P01 Shaheer long holder-6",
+      "33 REF M4x20 low-head floor bolt-18"
+    ],
+    [
+      2e-06,
+      "P01 Shaheer long holder-1",
+      "33 REF M4x20 low-head floor bolt-3"
+    ],
+    [
+      2e-06,
+      "P01 Shaheer long holder-3",
+      "33 REF M4x20 low-head floor bolt-9"
+    ],
+    [
+      2e-06,
+      "P01 Shaheer long holder-2",
+      "33 REF M4x20 low-head floor bolt-6"
+    ]
+  ],
+  "native_unexpected_interferences_above_0_02_mm3": [],
+  "STL_measurement_summary": {
+    "M01 Mould base - printability": {
+      "watertight": true,
+      "body_count": 1,
+      "min_sampled_wall_mm": 1.986,
+      "p05_wall_mm": 6.0
+    },
+    "M02 Mould wall A - printability": {
+      "watertight": true,
+      "body_count": 1,
+      "min_sampled_wall_mm": 3.986,
+      "p05_wall_mm": 3.991
+    },
+    "M03 Mould wall B - printability": {
+      "watertight": true,
+      "body_count": 1,
+      "min_sampled_wall_mm": 3.986,
+      "p05_wall_mm": 3.991
+    },
+    "M04 Hub sealing cap - printability": {
+      "watertight": true,
+      "body_count": 1,
+      "min_sampled_wall_mm": 3.0,
+      "p05_wall_mm": 3.0
+    },
+    "P04 Shaheer rim - recessed hex - printability": {
+      "watertight": true,
+      "body_count": 1,
+      "min_sampled_wall_mm": 1.098,
+      "p05_wall_mm": 2.965
+    },
+    "T02 Hex hub fit test - printability": {
+      "watertight": true,
+      "body_count": 1,
+      "min_sampled_wall_mm": 4.0,
+      "p05_wall_mm": 4.538
+    }
+  },
+  "physical_tests_performed": false,
+  "fea_performed": false
+}

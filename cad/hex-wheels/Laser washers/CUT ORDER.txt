@@ -1,0 +1,5 @@
+Cut 12 washers from measured 1.0 mm steel.
+DXF is 1:1 MILLIMETRES. Do not scale.
+Outside diameter 9 mm; centre hole 4.4 mm.
+Deburr both faces; no bends.
+Six washers are for the wheels and six for the mould hardware.
