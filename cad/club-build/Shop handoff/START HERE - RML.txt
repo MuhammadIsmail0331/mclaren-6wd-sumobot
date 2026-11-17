@@ -1,0 +1,9 @@
+McLaren 6WD Club | RML cut and bend order
+
+Cut from measured 1.0 mm weldable steel. Import DXFs at 1:1 in mm.
+C01 must read 250 x 288 mm. Use the photos for part IDs and quantities.
+Cut one T01 test piece and one C04 doubler first. Test the holes, strap slot and 90-degree bend.
+Reuse the successful C04 as one of the six. Transfer-drill the actual motor screw pattern after fit.
+Check the scoop on a same-stock test strip. If the brake develops a different blank, have the shop
+adjust the bent profiles before batch cutting. Get supervisor approval before changing stock to 0.8 mm.
+Use the second picture for bend directions and the motor rail-to-base joint.

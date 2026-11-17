@@ -1,0 +1,12 @@
+Part,Profile,Qty,Width mm,Depth mm,Round holes,Slots,Min ligament mm,Operation
+C01,C01 Base.dxf,1,250,288,12,4,8.5,Flat. Deburr four battery strap slots on both faces.
+C03,C03 Mount backing strip.dxf,2,186,20,6,0,4.25,Flat. Sandwich under the floor at the holder holes.
+C04,C04 Gearbox doubler and first coupon.dxf,6,44,37.9,1,0,9.7,Start with one. Check actual boss and wheel; transfer drill screw holes after fit.
+C08,C08 Scoop support web.dxf,5,35.0,39.057,0,0,,Flat. Seat after scoop is formed; use fixture at five lateral stations.
+C09,C09 Floor spine.dxf,1,186,12,0,0,,Flat upright web. Join on the floor centreline.
+T01,T01 Kerf and 90 degree bend coupon.dxf,1,80,40,2,1,4.7,"Same stock. Check slots and bores, then trial a 90 degree bend at 20 mm."
+C02,C02 Folded motor rail.dxf,2,178,56.4845,3,0,14.2,One bend. Cut bores after first coupon; transfer drill confirmed motor pattern.
+C05,C05 Folded wheel guard.dxf,2,249,66.4845,0,0,,One inward top bend; no fold in the relieved front end.
+C06,C06 Folded rear wall.dxf,1,288,57.9845,0,0,,"One inward top bend, join both corners and base."
+C07,C07 Three-bend scoop.dxf,1,282.0,160.736,0,0,,Three brake operations; develop and prove on same-stock strip.
+C10,C10 Electronics bridge.dxf,1,36,172.969,0,0,,Two 90 degree bends. End notches straddle the floor spine.

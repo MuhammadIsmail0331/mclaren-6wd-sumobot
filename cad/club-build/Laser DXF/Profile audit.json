@@ -1,0 +1,183 @@
+[
+  {
+    "id": "C01",
+    "profile": "C01 Base.dxf",
+    "qty": 1,
+    "blank_mm": [
+      250,
+      288
+    ],
+    "round_holes": 12,
+    "slots": 4,
+    "minimum_laser_cut_ligament_mm": 8.5,
+    "operation": "Flat. Deburr four battery strap slots on both faces.",
+    "entities": {
+      "LWPOLYLINE": 5,
+      "CIRCLE": 12
+    }
+  },
+  {
+    "id": "C03",
+    "profile": "C03 Mount backing strip.dxf",
+    "qty": 2,
+    "blank_mm": [
+      186,
+      20
+    ],
+    "round_holes": 6,
+    "slots": 0,
+    "minimum_laser_cut_ligament_mm": 4.25,
+    "operation": "Flat. Sandwich under the floor at the holder holes.",
+    "entities": {
+      "LWPOLYLINE": 1,
+      "CIRCLE": 6
+    }
+  },
+  {
+    "id": "C04",
+    "profile": "C04 Gearbox doubler and first coupon.dxf",
+    "qty": 6,
+    "blank_mm": [
+      44,
+      37.9
+    ],
+    "round_holes": 1,
+    "slots": 0,
+    "minimum_laser_cut_ligament_mm": 9.7,
+    "operation": "Start with one. Check actual boss and wheel; transfer drill screw holes after fit.",
+    "entities": {
+      "LWPOLYLINE": 1,
+      "CIRCLE": 1
+    }
+  },
+  {
+    "id": "C08",
+    "profile": "C08 Scoop support web.dxf",
+    "qty": 5,
+    "blank_mm": [
+      35.0,
+      39.057
+    ],
+    "round_holes": 0,
+    "slots": 0,
+    "minimum_laser_cut_ligament_mm": null,
+    "operation": "Flat. Seat after scoop is formed; use fixture at five lateral stations.",
+    "entities": {
+      "LWPOLYLINE": 1
+    }
+  },
+  {
+    "id": "C09",
+    "profile": "C09 Floor spine.dxf",
+    "qty": 1,
+    "blank_mm": [
+      186,
+      12
+    ],
+    "round_holes": 0,
+    "slots": 0,
+    "minimum_laser_cut_ligament_mm": null,
+    "operation": "Flat upright web. Join on the floor centreline.",
+    "entities": {
+      "LWPOLYLINE": 1
+    }
+  },
+  {
+    "id": "T01",
+    "profile": "T01 Kerf and 90 degree bend coupon.dxf",
+    "qty": 1,
+    "blank_mm": [
+      80,
+      40
+    ],
+    "round_holes": 2,
+    "slots": 1,
+    "minimum_laser_cut_ligament_mm": 4.7,
+    "operation": "Same stock. Check slots and bores, then trial a 90 degree bend at 20 mm.",
+    "entities": {
+      "LWPOLYLINE": 2,
+      "CIRCLE": 2
+    }
+  },
+  {
+    "id": "C02",
+    "profile": "C02 Folded motor rail.dxf",
+    "qty": 2,
+    "blank_mm": [
+      178,
+      56.4845
+    ],
+    "round_holes": 3,
+    "slots": 0,
+    "minimum_laser_cut_ligament_mm": 14.2,
+    "operation": "One bend. Cut bores after first coupon; transfer drill confirmed motor pattern.",
+    "entities": {
+      "LWPOLYLINE": 1,
+      "CIRCLE": 3
+    }
+  },
+  {
+    "id": "C05",
+    "profile": "C05 Folded wheel guard.dxf",
+    "qty": 2,
+    "blank_mm": [
+      249,
+      66.4845
+    ],
+    "round_holes": 0,
+    "slots": 0,
+    "minimum_laser_cut_ligament_mm": null,
+    "operation": "One inward top bend; no fold in the relieved front end.",
+    "entities": {
+      "LWPOLYLINE": 1
+    }
+  },
+  {
+    "id": "C06",
+    "profile": "C06 Folded rear wall.dxf",
+    "qty": 1,
+    "blank_mm": [
+      288,
+      57.9845
+    ],
+    "round_holes": 0,
+    "slots": 0,
+    "minimum_laser_cut_ligament_mm": null,
+    "operation": "One inward top bend, join both corners and base.",
+    "entities": {
+      "LWPOLYLINE": 1
+    }
+  },
+  {
+    "id": "C07",
+    "profile": "C07 Three-bend scoop.dxf",
+    "qty": 1,
+    "blank_mm": [
+      282.0,
+      160.736
+    ],
+    "round_holes": 0,
+    "slots": 0,
+    "minimum_laser_cut_ligament_mm": null,
+    "operation": "Three brake operations; develop and prove on same-stock strip.",
+    "entities": {
+      "LWPOLYLINE": 1
+    }
+  },
+  {
+    "id": "C10",
+    "profile": "C10 Electronics bridge.dxf",
+    "qty": 1,
+    "blank_mm": [
+      36,
+      172.969
+    ],
+    "round_holes": 0,
+    "slots": 0,
+    "minimum_laser_cut_ligament_mm": null,
+    "operation": "Two 90 degree bends. End notches straddle the floor spine.",
+    "entities": {
+      "LWPOLYLINE": 1
+    }
+  }
+]
